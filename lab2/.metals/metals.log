@@ -1,0 +1,1873 @@
+2024.11.27 21:09:38 INFO  Started: Metals version 1.4.1 in folders 'C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2' for client Visual Studio Code 1.95.3.
+2024.11.27 21:09:39 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.27 21:09:42 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.27 21:09:43 WARN  Could not find semantic tokens for: file:///C:/Users/dima-/OneDrive/Desktop/ФП/Functional_Programming/lab2/build.sbt
+2024.11.27 21:09:43 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.27 21:09:43 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.27 21:09:43 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.27 21:09:44 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.27 21:09:44 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.27 21:09:44 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.27 21:09:44 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.27 21:09:44 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.27 21:09:45 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.27 21:09:45 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.27 21:09:45 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.27 21:09:45 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.27 21:09:46 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.27 21:09:46 WARN  Could not find semantic tokens for: file:///C:/Users/dima-/OneDrive/Desktop/ФП/Functional_Programming/lab2/build.sbt
+2024.11.27 21:09:45 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.27 21:09:45 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.27 21:09:46 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.27 21:09:47 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.27 21:09:47 WARN  Could not find semantic tokens for: file:///C:/Users/dima-/OneDrive/Desktop/ФП/Functional_Programming/lab2/build.sbt
+2024.11.27 21:09:46 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.27 21:09:54 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.27 21:09:54 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.27 21:09:55 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.27 21:09:55 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.27 21:09:56 WARN  no build target for: C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\Main.scala
+2024.11.27 21:09:56 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.27 21:09:56 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.27 21:10:27 WARN  no build target for: C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\build.sbt
+2024.11.27 21:10:27 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.27 21:10:27 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.27 21:10:27 INFO  Shutting down server
+2024.11.27 21:10:27 INFO  shutting down Metals
+2024.11.27 21:10:27 INFO  Exiting server
+2024.11.27 21:17:54 INFO  Started: Metals version 1.4.1 in folders 'C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2' for client Visual Studio Code 1.95.3.
+2024.11.27 21:17:54 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.27 21:17:57 INFO  running 'C:\Users\dima-\AppData\Local\Coursier\cache\arc\https\github.com\adoptium\temurin17-binaries\releases\download\jdk-17%252B35\OpenJDK17-jdk_x64_windows_hotspot_17_35.zip\jdk-17+35\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\dima-\AppData\Local\Temp\metals7295482534254504862\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2024.11.27 21:17:58 INFO  [info] welcome to sbt 1.10.5 (Eclipse Adoptium Java 17)
+2024.11.27 21:17:59 INFO  [info] loading settings for project lab2-build-build from metals.sbt ...
+2024.11.27 21:17:59 INFO  [info] loading project definition from C:\Users\dima-\OneDrive\Desktop\Р¤Рџ\Functional_Programming\lab2\project\project
+2024.11.27 21:18:00 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.27 21:18:01 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.27 21:18:00 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+нояб. 27, 2024 9:18:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+2024.11.27 21:18:01 INFO  [info] loading settings for project lab2-build from metals.sbt ...
+2024.11.27 21:18:01 INFO  [info] loading project definition from C:\Users\dima-\OneDrive\Desktop\Р¤Рџ\Functional_Programming\lab2\project
+2024.11.27 21:18:02 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.27 21:18:03 INFO  [success] Generated .bloop\lab2-build.json
+2024.11.27 21:18:03 INFO  [success] Total time: 1 s, completed 27 РЅРѕСЏР±. 2024 Рі., 21:18:03
+2024.11.27 21:18:03 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.27 21:18:04 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.27 21:18:04 INFO  [info] loading settings for project lab2 from build.sbt ...
+2024.11.27 21:18:04 INFO  [info] set current project to hello-world (in build file:/C:/Users/dima-/OneDrive/Desktop/Р¤Рџ/Functional_Programming/lab2/)
+2024.11.27 21:18:05 INFO  [success] Generated .bloop\lab2-test.json
+2024.11.27 21:18:05 INFO  [success] Generated .bloop\lab2.json
+2024.11.27 21:18:05 INFO  [success] Total time: 1 s, completed 27 РЅРѕСЏР±. 2024 Рі., 21:18:05
+2024.11.27 21:18:05 INFO  time: ran 'sbt bloopInstall' in 8.23s
+2024.11.27 21:18:05 INFO  Attempting to connect to the build server...
+2024.11.27 21:18:05 INFO  Found a Bloop server running
+2024.11.27 21:18:06 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\.metals\bsp.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.27 21:18:06 INFO  Attempting to connect to the build server...
+2024.11.27 21:18:06 INFO  Found a Bloop server running
+2024.11.27 21:18:06 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\project\.metals\bsp.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.27 21:18:06 INFO  time: Connected to build server in 0.89s
+2024.11.27 21:18:06 INFO  Connected to Build server: Bloop v2.0.5
+2024.11.27 21:18:06 INFO  running doctor check
+2024.11.27 21:18:06 INFO  java targets: lab2, lab2-test, lab2-build
+2024.11.27 21:18:08 INFO  Required scalafmt dialect rewrite to 'scala3'. Directories:
+- src\main\scala
+2024.11.27 21:18:09 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.27 21:18:17 INFO  time: indexed workspace in 10s
+2024.11.27 21:18:17 INFO  compiling lab2 (2 scala sources)
+2024.11.27 21:18:19 INFO  time: compiled lab2 in 2.34s
+2024.11.27 21:18:19 INFO  compiling lab2 (2 scala sources)
+2024.11.27 21:18:19 INFO  time: compiled lab2 in 0.46s
+2024.11.27 21:18:22 INFO  time: code lens generation in 2.5s
+2024.11.27 21:18:35 INFO  compiling lab2 (2 scala sources)
+2024.11.27 21:18:35 INFO  time: compiled lab2 in 0.32s
+2024.11.27 21:18:53 INFO  compiling lab2 (2 scala sources)
+2024.11.27 21:18:53 INFO  time: compiled lab2 in 0.23s
+2024.11.27 21:18:56 INFO  compiling lab2 (2 scala sources)
+2024.11.27 21:18:56 INFO  time: compiled lab2 in 0.2s
+2024.11.27 21:18:56 INFO  compiling lab2 (2 scala sources)
+2024.11.27 21:18:56 INFO  time: compiled lab2 in 0.17s
+2024.11.27 21:18:59 INFO  compiling lab2 (2 scala sources)
+2024.11.27 21:18:59 INFO  time: compiled lab2 in 0.19s
+2024.11.27 21:19:00 INFO  compiling lab2 (2 scala sources)
+2024.11.27 21:19:00 INFO  time: compiled lab2 in 0.16s
+2024.11.27 21:19:07 INFO  compiling lab2 (2 scala sources)
+2024.11.27 21:19:07 INFO  time: compiled lab2 in 0.57s
+2024.11.27 21:19:19 INFO  compiling lab2 (2 scala sources)
+2024.11.27 21:19:19 INFO  time: compiled lab2 in 0.44s
+2024.11.27 21:19:20 INFO  compiling lab2 (2 scala sources)
+2024.11.27 21:19:20 INFO  time: compiled lab2 in 0.52s
+2024.11.27 21:20:07 INFO  compiling lab2 (2 scala sources)
+2024.11.27 21:20:07 INFO  time: compiled lab2 in 0.17s
+2024.11.27 21:20:11 INFO  compiling lab2 (2 scala sources)
+2024.11.27 21:20:11 INFO  time: compiled lab2 in 0.15s
+2024.11.27 21:20:34 INFO  compiling lab2 (2 scala sources)
+2024.11.27 21:20:34 INFO  time: compiled lab2 in 0.13s
+2024.11.27 21:20:37 INFO  compiling lab2 (2 scala sources)
+2024.11.27 21:20:37 INFO  time: compiled lab2 in 0.13s
+2024.11.27 21:20:39 INFO  compiling lab2 (2 scala sources)
+2024.11.27 21:20:39 INFO  time: compiled lab2 in 0.15s
+2024.11.27 21:20:41 INFO  compiling lab2 (2 scala sources)
+2024.11.27 21:20:41 INFO  time: compiled lab2 in 54ms
+2024.11.27 21:20:44 INFO  compiling lab2 (2 scala sources)
+2024.11.27 21:20:44 INFO  time: compiled lab2 in 56ms
+2024.11.27 21:20:46 INFO  compiling lab2 (2 scala sources)
+2024.11.27 21:20:46 INFO  time: compiled lab2 in 0.12s
+2024.11.27 21:20:47 INFO  compiling lab2 (2 scala sources)
+2024.11.27 21:20:47 INFO  time: compiled lab2 in 0.11s
+2024.11.27 21:21:02 INFO  compiling lab2 (2 scala sources)
+2024.11.27 21:21:02 INFO  time: compiled lab2 in 0.11s
+2024.11.27 21:21:04 INFO  compiling lab2 (2 scala sources)
+2024.11.27 21:21:04 INFO  time: compiled lab2 in 0.1s
+2024.11.27 21:21:08 INFO  compiling lab2 (2 scala sources)
+2024.11.27 21:21:08 INFO  time: compiled lab2 in 0.25s
+2024.11.27 21:21:12 INFO  compiling lab2 (2 scala sources)
+2024.11.27 21:21:12 INFO  time: compiled lab2 in 99ms
+2024.11.27 21:21:15 INFO  compiling lab2 (2 scala sources)
+2024.11.27 21:21:15 INFO  time: compiled lab2 in 95ms
+2024.11.27 21:21:16 INFO  compiling lab2 (2 scala sources)
+2024.11.27 21:21:16 INFO  time: compiled lab2 in 0.29s
+2024.11.27 21:21:18 INFO  compiling lab2 (2 scala sources)
+2024.11.27 21:21:18 INFO  time: compiled lab2 in 0.11s
+2024.11.27 21:21:36 INFO  compiling lab2 (2 scala sources)
+2024.11.27 21:21:36 INFO  time: compiled lab2 in 0.18s
+2024.11.27 21:21:36 ERROR scalafmt: C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\integral.scala:4: error: [dialect scala3] ; expected but : found
+import scala.ExecutionContext.Implicits.global:
+                                              ^
+2024.11.27 21:21:36 INFO  compiling lab2 (2 scala sources)
+2024.11.27 21:21:36 INFO  time: compiled lab2 in 0.23s
+2024.11.27 21:21:39 INFO  compiling lab2 (2 scala sources)
+2024.11.27 21:21:39 INFO  time: compiled lab2 in 0.23s
+2024.11.27 21:21:45 INFO  compiling lab2 (2 scala sources)
+2024.11.27 21:21:45 INFO  time: compiled lab2 in 78ms
+2024.11.27 21:21:49 INFO  compiling lab2 (2 scala sources)
+2024.11.27 21:21:49 INFO  time: compiled lab2 in 0.17s
+2024.11.27 21:21:50 INFO  compiling lab2 (2 scala sources)
+2024.11.27 21:21:50 INFO  time: compiled lab2 in 0.11s
+2024.11.27 21:21:50 INFO  compiling lab2 (2 scala sources)
+2024.11.27 21:21:50 INFO  time: compiled lab2 in 0.18s
+2024.11.27 21:21:53 INFO  compiling lab2 (2 scala sources)
+2024.11.27 21:21:53 INFO  time: compiled lab2 in 0.23s
+2024.11.27 21:22:13 INFO  compiling lab2 (2 scala sources)
+2024.11.27 21:22:13 INFO  time: compiled lab2 in 0.23s
+2024.11.27 21:22:14 INFO  compiling lab2 (2 scala sources)
+2024.11.27 21:22:14 INFO  time: compiled lab2 in 0.11s
+2024.11.27 21:22:14 INFO  compiling lab2 (2 scala sources)
+2024.11.27 21:22:16 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2024.11.27 21:22:16 INFO  time: compiled lab2 in 0.95s
+2024.11.27 21:22:28 INFO  compiling lab2 (1 scala source)
+2024.11.27 21:22:28 INFO  time: compiled lab2 in 0.22s
+2024.11.27 21:22:31 INFO  compiling lab2 (1 scala source)
+2024.11.27 21:22:31 INFO  time: compiled lab2 in 0.19s
+2024.11.27 21:22:51 INFO  compiling lab2 (1 scala source)
+2024.11.27 21:22:51 INFO  time: compiled lab2 in 0.18s
+2024.11.27 21:22:57 ERROR C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\main.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:76)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.acceptTrivia(ScalaToplevelMtags.scala:1002)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseMethodArgs(ScalaToplevelMtags.scala:686)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseMemberDefinitionLhs(ScalaToplevelMtags.scala:665)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:338)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:88)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:485)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:583)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:580)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:580)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:947)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.11.27 21:22:57 INFO  compiling lab2 (1 scala source)
+2024.11.27 21:22:57 INFO  time: compiled lab2 in 64ms
+2024.11.27 21:23:45 ERROR C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\main.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:76)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.acceptTrivia(ScalaToplevelMtags.scala:1002)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseMethodArgs(ScalaToplevelMtags.scala:686)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseMemberDefinitionLhs(ScalaToplevelMtags.scala:665)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:338)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:88)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:485)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:583)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:580)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:580)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:947)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.11.27 21:23:45 INFO  compiling lab2 (1 scala source)
+2024.11.27 21:23:45 INFO  time: compiled lab2 in 60ms
+2024.11.27 21:23:47 ERROR C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\main.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:76)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.acceptTrivia(ScalaToplevelMtags.scala:1002)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseMethodArgs(ScalaToplevelMtags.scala:686)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseMemberDefinitionLhs(ScalaToplevelMtags.scala:665)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:338)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:88)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:485)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:583)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:580)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:580)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:947)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.11.27 21:23:47 INFO  compiling lab2 (1 scala source)
+2024.11.27 21:23:47 INFO  time: compiled lab2 in 51ms
+2024.11.27 21:23:51 ERROR C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\main.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:76)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.acceptTrivia(ScalaToplevelMtags.scala:1002)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseMethodArgs(ScalaToplevelMtags.scala:686)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseMemberDefinitionLhs(ScalaToplevelMtags.scala:665)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:338)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:88)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:485)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:583)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:580)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:580)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:947)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.11.27 21:23:51 INFO  compiling lab2 (1 scala source)
+2024.11.27 21:23:51 INFO  time: compiled lab2 in 53ms
+2024.11.27 21:24:03 ERROR C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\main.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:76)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.acceptTrivia(ScalaToplevelMtags.scala:1002)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseMethodArgs(ScalaToplevelMtags.scala:686)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseMemberDefinitionLhs(ScalaToplevelMtags.scala:665)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:338)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:88)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:485)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:583)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:580)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:580)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:947)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.11.27 21:24:03 INFO  compiling lab2 (1 scala source)
+2024.11.27 21:24:03 INFO  time: compiled lab2 in 51ms
+2024.11.27 21:24:05 ERROR C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\main.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:76)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.acceptTrivia(ScalaToplevelMtags.scala:1002)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseMethodArgs(ScalaToplevelMtags.scala:686)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseMemberDefinitionLhs(ScalaToplevelMtags.scala:665)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:338)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:88)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:485)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:583)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:580)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:580)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:947)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.11.27 21:24:05 INFO  compiling lab2 (1 scala source)
+2024.11.27 21:24:05 INFO  time: compiled lab2 in 62ms
+нояб. 27, 2024 9:24:07 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\.metals\.reports\metals-full\2024-11-27\r_compiler-error_(lab2)_21-24-07-411.md
+2024.11.27 21:24:07 WARN  Could not find semantic tokens for: file:///C:/Users/dima-/OneDrive/Desktop/ФП/Functional_Programming/lab2/src/main/scala/main.scala
+нояб. 27, 2024 9:24:07 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\.metals\.reports\metals-full\2024-11-27\r_compiler-error_(lab2)_21-24-07-774.md
+2024.11.27 21:24:07 WARN  Could not find semantic tokens for: file:///C:/Users/dima-/OneDrive/Desktop/ФП/Functional_Programming/lab2/src/main/scala/main.scala
+нояб. 27, 2024 9:24:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 939
+2024.11.27 21:24:09 ERROR C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\main.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:76)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.acceptTrivia(ScalaToplevelMtags.scala:1002)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseMethodArgs(ScalaToplevelMtags.scala:686)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseMemberDefinitionLhs(ScalaToplevelMtags.scala:665)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:338)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:88)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:485)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:583)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:580)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:580)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:947)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.11.27 21:24:09 INFO  compiling lab2 (1 scala source)
+2024.11.27 21:24:09 INFO  time: compiled lab2 in 47ms
+2024.11.27 21:24:14 INFO  compiling lab2 (1 scala source)
+2024.11.27 21:24:14 INFO  time: compiled lab2 in 48ms
+2024.11.27 21:24:15 INFO  compiling lab2 (1 scala source)
+2024.11.27 21:24:15 INFO  time: compiled lab2 in 50ms
+2024.11.27 21:24:24 INFO  compiling lab2 (1 scala source)
+2024.11.27 21:24:24 INFO  time: compiled lab2 in 48ms
+2024.11.27 21:24:31 INFO  compiling lab2 (1 scala source)
+2024.11.27 21:24:31 INFO  time: compiled lab2 in 56ms
+2024.11.27 21:24:53 INFO  compiling lab2 (1 scala source)
+2024.11.27 21:24:53 INFO  time: compiled lab2 in 45ms
+2024.11.27 21:24:54 INFO  compiling lab2 (1 scala source)
+2024.11.27 21:24:54 INFO  time: compiled lab2 in 44ms
+2024.11.27 21:24:57 INFO  compiling lab2 (1 scala source)
+2024.11.27 21:24:57 INFO  time: compiled lab2 in 47ms
+2024.11.27 21:24:58 INFO  compiling lab2 (1 scala source)
+2024.11.27 21:24:58 INFO  time: compiled lab2 in 41ms
+2024.11.27 21:24:59 INFO  compiling lab2 (1 scala source)
+2024.11.27 21:24:59 INFO  time: compiled lab2 in 51ms
+2024.11.27 21:31:12 INFO  compiling lab2 (1 scala source)
+2024.11.27 21:31:12 INFO  time: compiled lab2 in 0.32s
+2024.11.27 21:31:14 INFO  compiling lab2 (1 scala source)
+2024.11.27 21:31:14 INFO  time: compiled lab2 in 0.32s
+2024.11.27 21:31:21 INFO  compiling lab2 (1 scala source)
+2024.11.27 21:31:21 INFO  time: compiled lab2 in 0.19s
+2024.11.27 21:31:23 INFO  compiling lab2 (1 scala source)
+2024.11.27 21:31:23 INFO  time: compiled lab2 in 0.22s
+2024.11.27 21:31:28 INFO  compiling lab2 (1 scala source)
+2024.11.27 21:31:28 INFO  time: compiled lab2 in 0.21s
+2024.11.27 21:32:05 INFO  compiling lab2 (1 scala source)
+2024.11.27 21:32:05 INFO  time: compiled lab2 in 0.27s
+2024.11.27 21:32:05 INFO  compiling lab2 (3 scala sources)
+2024.11.27 21:32:05 INFO  time: compiled lab2 in 0.32s
+2024.11.27 21:32:07 INFO  compiling lab2 (3 scala sources)
+2024.11.27 21:32:07 INFO  time: compiled lab2 in 0.24s
+2024.11.27 21:32:16 INFO  compiling lab2 (3 scala sources)
+2024.11.27 21:32:16 INFO  time: compiled lab2 in 0.22s
+2024.11.27 21:32:18 INFO  compiling lab2 (3 scala sources)
+2024.11.27 21:32:18 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2024.11.27 21:32:18 INFO  time: compiled lab2 in 0.38s
+2024.11.27 21:32:24 INFO  compiling lab2 (1 scala source)
+2024.11.27 21:32:24 INFO  time: compiled lab2 in 0.2s
+2024.11.27 21:32:26 INFO  compiling lab2 (1 scala source)
+2024.11.27 21:32:26 INFO  time: compiled lab2 in 0.23s
+2024.11.27 21:32:30 INFO  compiling lab2 (1 scala source)
+2024.11.27 21:32:30 INFO  time: compiled lab2 in 0.18s
+2024.11.27 21:33:35 INFO  compiling lab2 (1 scala source)
+2024.11.27 21:33:35 INFO  time: compiled lab2 in 87ms
+2024.11.27 21:33:38 INFO  compiling lab2 (1 scala source)
+2024.11.27 21:33:38 INFO  time: compiled lab2 in 0.2s
+2024.11.27 21:33:50 INFO  compiling lab2 (1 scala source)
+2024.11.27 21:33:50 INFO  time: compiled lab2 in 0.18s
+нояб. 27, 2024 9:35:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.11.27 21:37:42 INFO  compiling lab2 (1 scala source)
+2024.11.27 21:37:42 INFO  time: compiled lab2 in 0.14s
+2024.11.27 21:37:49 INFO  time: compiled lab2 in 3ms
+2024.11.27 21:38:03 INFO  compiling lab2 (1 scala source)
+2024.11.27 21:38:03 INFO  time: compiled lab2 in 80ms
+2024.11.27 21:39:32 INFO  compiling lab2 (1 scala source)
+2024.11.27 21:39:32 INFO  time: compiled lab2 in 0.46s
+2024.11.27 21:39:36 INFO  compiling lab2 (1 scala source)
+2024.11.27 21:39:36 INFO  time: compiled lab2 in 0.47s
+2024.11.27 21:42:15 INFO  compiling lab2 (1 scala source)
+2024.11.27 21:42:15 INFO  time: compiled lab2 in 0.22s
+2024.11.27 21:42:15 INFO  compiling lab2 (1 scala source)
+2024.11.27 21:42:15 INFO  time: compiled lab2 in 70ms
+2024.11.27 21:42:19 INFO  compiling lab2 (1 scala source)
+2024.11.27 21:42:19 INFO  time: compiled lab2 in 0.17s
+2024.11.27 21:42:19 INFO  compiling lab2 (1 scala source)
+2024.11.27 21:42:19 INFO  time: compiled lab2 in 60ms
+2024.11.27 21:42:21 INFO  compiling lab2 (1 scala source)
+2024.11.27 21:42:21 INFO  time: compiled lab2 in 0.16s
+2024.11.27 21:42:21 INFO  compiling lab2 (1 scala source)
+2024.11.27 21:42:21 INFO  time: compiled lab2 in 78ms
+2024.11.27 21:42:24 INFO  compiling lab2 (1 scala source)
+2024.11.27 21:42:24 INFO  time: compiled lab2 in 0.15s
+2024.11.27 21:42:24 INFO  compiling lab2 (1 scala source)
+2024.11.27 21:42:24 INFO  time: compiled lab2 in 52ms
+2024.11.27 21:42:32 INFO  compiling lab2 (3 scala sources)
+2024.11.27 21:42:32 INFO  time: compiled lab2 in 0.22s
+2024.11.27 21:44:12 INFO  compiling lab2 (1 scala source)
+2024.11.27 21:44:12 INFO  time: compiled lab2 in 0.15s
+2024.11.27 21:50:59 INFO  Shutting down server
+2024.11.27 21:50:59 INFO  shutting down Metals
+2024.11.27 21:50:59 INFO  Shut down connection with build server.
+2024.11.27 21:50:59 INFO  Shut down connection with build server.
+2024.11.27 21:50:59 INFO  Exiting server
+2024.11.28 11:18:08 INFO  Started: Metals version 1.4.1 in folders 'C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2' for client Visual Studio Code 1.95.3.
+2024.11.28 11:18:08 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.28 11:18:08 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\integral.scala. Using presentation compiler with project's scala-library version: 3.3.4
+нояб. 28, 2024 11:18:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2024.11.28 11:18:11 INFO  Attempting to connect to the build server...
+2024.11.28 11:18:11 INFO  No running Bloop server found, starting one.
+2024.11.28 11:18:13 INFO  Starting compilation server
+2024.11.28 11:18:17 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\.metals\bsp.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.28 11:18:19 INFO  Attempting to connect to the build server...
+2024.11.28 11:18:19 INFO  Found a Bloop server running
+2024.11.28 11:18:20 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\project\.metals\bsp.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.28 11:18:20 INFO  time: Connected to build server in 8.9s
+2024.11.28 11:18:20 INFO  Connected to Build server: Bloop v2.0.5
+2024.11.28 11:18:20 INFO  time: Imported build in 0.1s
+2024.11.28 11:18:20 INFO  running doctor check
+2024.11.28 11:18:20 INFO  java targets: lab2, lab2-test, lab2-build
+нояб. 28, 2024 11:18:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+2024.11.28 11:18:24 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.28 11:18:30 INFO  time: indexed workspace in 9.83s
+нояб. 28, 2024 11:20:08 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "untitled:Untitled-1"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "untitled" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:190)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:774)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:771)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:698)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:43)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+2024.11.28 11:20:51 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:20:53 INFO  time: compiled lab2 in 2.44s
+2024.11.28 11:20:53 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:20:53 INFO  time: compiled lab2 in 0.63s
+2024.11.28 11:21:23 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:21:23 INFO  time: compiled lab2 in 0.64s
+2024.11.28 11:21:35 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:21:35 INFO  time: compiled lab2 in 0.2s
+2024.11.28 11:21:39 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:21:39 INFO  time: compiled lab2 in 0.26s
+2024.11.28 11:21:49 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:21:49 INFO  time: compiled lab2 in 68ms
+2024.11.28 11:21:50 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:21:50 INFO  time: compiled lab2 in 0.1s
+2024.11.28 11:21:52 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:21:52 INFO  time: compiled lab2 in 79ms
+2024.11.28 11:21:52 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:21:53 INFO  time: compiled lab2 in 0.19s
+2024.11.28 11:21:59 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:21:59 INFO  time: compiled lab2 in 0.28s
+2024.11.28 11:22:01 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:22:01 INFO  time: compiled lab2 in 0.18s
+2024.11.28 11:22:08 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:22:08 INFO  time: compiled lab2 in 71ms
+2024.11.28 11:22:15 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:22:15 INFO  time: compiled lab2 in 70ms
+2024.11.28 11:22:16 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:22:16 INFO  time: compiled lab2 in 93ms
+2024.11.28 11:22:17 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:22:17 INFO  time: compiled lab2 in 64ms
+2024.11.28 11:22:19 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:22:19 INFO  time: compiled lab2 in 66ms
+2024.11.28 11:22:37 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:22:37 INFO  time: compiled lab2 in 66ms
+2024.11.28 11:22:39 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:22:39 INFO  time: compiled lab2 in 61ms
+2024.11.28 11:22:46 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:22:46 INFO  time: compiled lab2 in 71ms
+2024.11.28 11:22:47 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:22:47 INFO  time: compiled lab2 in 58ms
+2024.11.28 11:22:50 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:22:50 INFO  time: compiled lab2 in 61ms
+2024.11.28 11:22:53 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:22:53 INFO  time: compiled lab2 in 62ms
+2024.11.28 11:22:56 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:22:56 INFO  time: compiled lab2 in 65ms
+2024.11.28 11:23:00 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:23:00 INFO  time: compiled lab2 in 63ms
+2024.11.28 11:23:02 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:23:02 INFO  time: compiled lab2 in 59ms
+2024.11.28 11:23:04 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:23:04 INFO  time: compiled lab2 in 0.33s
+2024.11.28 11:23:05 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:23:05 INFO  time: compiled lab2 in 0.32s
+2024.11.28 11:23:27 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:23:27 INFO  time: compiled lab2 in 0.2s
+2024.11.28 11:23:32 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:23:32 INFO  time: compiled lab2 in 0.19s
+2024.11.28 11:23:34 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:23:34 INFO  time: compiled lab2 in 62ms
+2024.11.28 11:23:38 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:23:38 INFO  time: compiled lab2 in 67ms
+2024.11.28 11:23:42 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:23:42 INFO  time: compiled lab2 in 60ms
+2024.11.28 11:23:46 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:23:46 INFO  time: compiled lab2 in 0.18s
+2024.11.28 11:23:50 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:23:50 INFO  time: compiled lab2 in 0.16s
+2024.11.28 11:25:19 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:25:19 INFO  time: compiled lab2 in 0.37s
+2024.11.28 11:25:19 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:25:19 INFO  time: compiled lab2 in 0.11s
+2024.11.28 11:25:22 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:25:22 INFO  time: compiled lab2 in 0.23s
+2024.11.28 11:25:22 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:25:22 INFO  time: compiled lab2 in 0.19s
+2024.11.28 11:26:06 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:26:06 INFO  time: compiled lab2 in 0.29s
+2024.11.28 11:26:06 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\integral.scala
+2024.11.28 11:26:09 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\integral.scala
+2024.11.28 11:26:10 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\integral.scala
+2024.11.28 11:26:11 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:26:11 INFO  time: compiled lab2 in 94ms
+2024.11.28 11:26:11 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\integral.scala
+2024.11.28 11:26:12 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\integral.scala
+2024.11.28 11:26:12 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\integral.scala
+2024.11.28 11:26:13 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\integral.scala
+2024.11.28 11:26:13 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\integral.scala
+2024.11.28 11:26:14 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\integral.scala
+2024.11.28 11:26:14 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:26:14 INFO  time: compiled lab2 in 0.22s
+2024.11.28 11:26:16 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:26:16 INFO  time: compiled lab2 in 0.21s
+2024.11.28 11:26:16 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:26:17 INFO  time: compiled lab2 in 0.21s
+2024.11.28 11:26:30 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:26:30 INFO  time: compiled lab2 in 0.23s
+2024.11.28 11:26:35 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:26:35 INFO  time: compiled lab2 in 0.19s
+2024.11.28 11:26:48 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:26:48 INFO  time: compiled lab2 in 0.2s
+2024.11.28 11:26:56 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:26:56 INFO  time: compiled lab2 in 0.17s
+2024.11.28 11:26:57 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:26:57 INFO  time: compiled lab2 in 0.17s
+2024.11.28 11:27:36 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:27:36 INFO  time: compiled lab2 in 0.21s
+2024.11.28 11:27:38 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:27:38 INFO  time: compiled lab2 in 87ms
+2024.11.28 11:27:45 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:27:45 INFO  time: compiled lab2 in 95ms
+2024.11.28 11:27:46 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:27:46 INFO  time: compiled lab2 in 0.17s
+2024.11.28 11:27:49 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:27:49 INFO  time: compiled lab2 in 0.17s
+2024.11.28 11:27:57 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:27:57 INFO  time: compiled lab2 in 0.17s
+2024.11.28 11:28:10 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:28:10 INFO  time: compiled lab2 in 0.16s
+2024.11.28 11:28:40 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:28:40 INFO  time: compiled lab2 in 0.17s
+2024.11.28 11:49:36 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:49:36 INFO  time: compiled lab2 in 0.32s
+2024.11.28 11:49:56 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:49:56 INFO  time: compiled lab2 in 0.18s
+2024.11.28 11:49:58 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:49:58 INFO  time: compiled lab2 in 0.17s
+2024.11.28 11:50:04 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:50:04 INFO  time: compiled lab2 in 0.17s
+2024.11.28 11:50:13 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:50:13 INFO  time: compiled lab2 in 0.2s
+2024.11.28 11:50:15 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:50:15 INFO  time: compiled lab2 in 0.16s
+2024.11.28 11:55:46 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:55:46 INFO  time: compiled lab2 in 0.17s
+2024.11.28 11:56:23 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:56:23 INFO  time: compiled lab2 in 81ms
+2024.11.28 11:56:25 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:56:25 INFO  time: compiled lab2 in 60ms
+2024.11.28 11:56:32 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:56:32 INFO  time: compiled lab2 in 59ms
+2024.11.28 11:56:43 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:56:43 INFO  time: compiled lab2 in 60ms
+2024.11.28 11:56:45 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:56:45 INFO  time: compiled lab2 in 67ms
+2024.11.28 11:56:46 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:56:46 INFO  time: compiled lab2 in 58ms
+2024.11.28 11:56:49 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:56:49 INFO  time: compiled lab2 in 57ms
+2024.11.28 11:56:50 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:56:50 INFO  time: compiled lab2 in 54ms
+2024.11.28 11:56:50 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:56:51 INFO  time: compiled lab2 in 48ms
+2024.11.28 11:56:53 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:56:53 INFO  time: compiled lab2 in 48ms
+2024.11.28 11:56:55 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:56:55 INFO  time: compiled lab2 in 53ms
+2024.11.28 11:56:57 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:56:57 INFO  time: compiled lab2 in 61ms
+2024.11.28 11:57:00 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:57:00 INFO  time: compiled lab2 in 0.18s
+2024.11.28 11:57:04 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:57:04 INFO  time: compiled lab2 in 52ms
+2024.11.28 11:57:05 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:57:05 INFO  time: compiled lab2 in 62ms
+2024.11.28 11:57:07 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:57:07 INFO  time: compiled lab2 in 57ms
+2024.11.28 11:57:10 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:57:10 INFO  time: compiled lab2 in 65ms
+2024.11.28 11:57:14 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:57:14 INFO  time: compiled lab2 in 50ms
+2024.11.28 11:57:16 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:57:16 INFO  time: compiled lab2 in 53ms
+2024.11.28 11:57:19 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:57:19 INFO  time: compiled lab2 in 52ms
+2024.11.28 11:57:21 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:57:21 INFO  time: compiled lab2 in 0.2s
+2024.11.28 11:57:24 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:57:24 INFO  time: compiled lab2 in 0.15s
+2024.11.28 11:57:26 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:57:26 INFO  time: compiled lab2 in 0.16s
+2024.11.28 11:57:34 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:57:34 INFO  time: compiled lab2 in 0.14s
+2024.11.28 11:57:37 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:57:37 INFO  time: compiled lab2 in 0.19s
+2024.11.28 11:57:39 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:57:39 INFO  time: compiled lab2 in 0.14s
+2024.11.28 11:57:43 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:57:43 INFO  time: compiled lab2 in 0.14s
+2024.11.28 11:57:46 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:57:46 INFO  time: compiled lab2 in 63ms
+2024.11.28 11:57:48 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:57:48 INFO  time: compiled lab2 in 0.16s
+2024.11.28 11:57:52 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:57:52 INFO  time: compiled lab2 in 0.15s
+2024.11.28 11:57:55 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:57:55 INFO  time: compiled lab2 in 0.14s
+2024.11.28 11:58:00 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:58:00 INFO  time: compiled lab2 in 0.27s
+2024.11.28 11:58:00 INFO  compiling lab2 (1 scala source)
+2024.11.28 11:58:00 INFO  time: compiled lab2 in 0.2s
+нояб. 28, 2024 11:58:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2381
+2024.11.28 12:02:51 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:02:51 INFO  time: compiled lab2 in 0.32s
+2024.11.28 12:02:56 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:02:56 INFO  time: compiled lab2 in 0.2s
+2024.11.28 12:02:57 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:02:57 INFO  time: compiled lab2 in 0.16s
+2024.11.28 12:03:04 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:03:04 INFO  time: compiled lab2 in 0.11s
+2024.11.28 12:03:14 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:03:14 INFO  time: compiled lab2 in 0.22s
+2024.11.28 12:03:21 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:03:21 INFO  time: compiled lab2 in 0.23s
+2024.11.28 12:03:34 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:03:34 INFO  time: compiled lab2 in 0.2s
+2024.11.28 12:03:34 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:03:34 INFO  time: compiled lab2 in 0.2s
+2024.11.28 12:08:28 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:08:28 INFO  time: compiled lab2 in 0.26s
+2024.11.28 12:08:32 INFO  time: compiled lab2 in 2ms
+2024.11.28 12:15:12 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:15:12 INFO  time: compiled lab2 in 76ms
+2024.11.28 12:15:15 INFO  time: compiled lab2 in 2ms
+2024.11.28 12:15:17 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:15:17 INFO  time: compiled lab2 in 68ms
+2024.11.28 12:15:20 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:15:20 INFO  time: compiled lab2 in 70ms
+2024.11.28 12:15:21 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:15:21 INFO  time: compiled lab2 in 0.21s
+2024.11.28 12:15:27 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:15:27 INFO  time: compiled lab2 in 0.22s
+2024.11.28 12:15:31 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:15:31 INFO  time: compiled lab2 in 0.16s
+2024.11.28 12:15:55 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:15:55 INFO  time: compiled lab2 in 0.2s
+2024.11.28 12:16:04 INFO  compiling lab2 (1 scala source)
+нояб. 28, 2024 12:16:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2935
+2024.11.28 12:16:04 INFO  time: compiled lab2 in 0.21s
+2024.11.28 12:16:19 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:16:19 INFO  time: compiled lab2 in 0.2s
+2024.11.28 12:16:21 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:16:21 INFO  time: compiled lab2 in 0.2s
+2024.11.28 12:16:23 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:16:23 INFO  time: compiled lab2 in 0.1s
+2024.11.28 12:16:25 INFO  time: compiled lab2 in 10ms
+2024.11.28 12:16:26 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:16:26 INFO  time: compiled lab2 in 0.16s
+2024.11.28 12:16:36 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:16:36 INFO  time: compiled lab2 in 0.17s
+2024.11.28 12:16:38 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:16:38 INFO  time: compiled lab2 in 0.16s
+2024.11.28 12:16:42 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:16:42 INFO  time: compiled lab2 in 0.21s
+2024.11.28 12:16:42 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:16:43 INFO  time: compiled lab2 in 0.18s
+2024.11.28 12:16:44 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:16:44 INFO  time: compiled lab2 in 0.18s
+2024.11.28 12:17:08 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:17:08 INFO  time: compiled lab2 in 0.18s
+2024.11.28 12:17:13 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:17:13 INFO  time: compiled lab2 in 0.19s
+2024.11.28 12:17:20 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:17:20 INFO  time: compiled lab2 in 0.16s
+2024.11.28 12:35:33 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:35:33 INFO  time: compiled lab2 in 79ms
+2024.11.28 12:35:33 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:35:33 INFO  time: compiled lab2 in 0.34s
+2024.11.28 12:35:46 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:35:46 INFO  time: compiled lab2 in 0.19s
+2024.11.28 12:35:50 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:35:50 INFO  time: compiled lab2 in 0.18s
+2024.11.28 12:35:53 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:35:53 INFO  time: compiled lab2 in 0.15s
+2024.11.28 12:35:56 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:35:56 INFO  time: compiled lab2 in 0.16s
+2024.11.28 12:36:01 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:36:01 INFO  time: compiled lab2 in 0.19s
+2024.11.28 12:36:01 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:36:01 INFO  time: compiled lab2 in 0.19s
+2024.11.28 12:36:09 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:36:09 INFO  time: compiled lab2 in 0.19s
+2024.11.28 12:36:18 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:36:18 INFO  time: compiled lab2 in 0.16s
+2024.11.28 12:36:49 INFO  compiling lab2 (2 scala sources)
+2024.11.28 12:36:49 INFO  time: compiled lab2 in 0.22s
+2024.11.28 12:36:49 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\goodEnoughPasswordByTry.scala
+2024.11.28 12:36:50 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\goodEnoughPasswordByTry.scala
+2024.11.28 12:36:51 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\goodEnoughPasswordByTry.scala
+2024.11.28 12:36:51 INFO  compiling lab2 (2 scala sources)
+2024.11.28 12:36:51 INFO  time: compiled lab2 in 0.16s
+2024.11.28 12:36:52 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\goodEnoughPasswordByTry.scala
+2024.11.28 12:36:53 INFO  compiling lab2 (2 scala sources)
+2024.11.28 12:36:53 INFO  time: compiled lab2 in 0.18s
+2024.11.28 12:36:53 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\goodEnoughPasswordByTry.scala
+2024.11.28 12:36:53 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\goodEnoughPasswordByTry.scala
+2024.11.28 12:36:53 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\goodEnoughPasswordByTry.scala
+2024.11.28 12:36:53 INFO  compiling lab2 (2 scala sources)
+2024.11.28 12:36:53 INFO  time: compiled lab2 in 0.17s
+2024.11.28 12:36:54 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\goodEnoughPasswordByTry.scala
+2024.11.28 12:37:02 INFO  compiling lab2 (2 scala sources)
+2024.11.28 12:37:02 INFO  time: compiled lab2 in 0.29s
+2024.11.28 12:37:14 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:37:14 INFO  time: compiled lab2 in 0.19s
+2024.11.28 12:37:20 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:37:20 INFO  time: compiled lab2 in 0.21s
+2024.11.28 12:37:21 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:37:21 INFO  time: compiled lab2 in 0.16s
+2024.11.28 12:37:24 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:37:24 INFO  time: compiled lab2 in 0.19s
+2024.11.28 12:37:25 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:37:25 INFO  time: compiled lab2 in 0.16s
+2024.11.28 12:37:28 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:37:28 INFO  time: compiled lab2 in 0.18s
+2024.11.28 12:37:29 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:37:29 INFO  time: compiled lab2 in 0.19s
+нояб. 28, 2024 12:41:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3717
+2024.11.28 12:44:49 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:44:49 INFO  time: compiled lab2 in 47ms
+2024.11.28 12:44:49 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:44:49 INFO  time: compiled lab2 in 0.2s
+2024.11.28 12:45:02 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:45:02 INFO  time: compiled lab2 in 97ms
+2024.11.28 12:45:04 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:45:04 INFO  time: compiled lab2 in 0.1s
+2024.11.28 12:45:05 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:45:05 INFO  time: compiled lab2 in 85ms
+2024.11.28 12:45:07 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:45:07 INFO  time: compiled lab2 in 90ms
+2024.11.28 12:45:10 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:45:10 INFO  time: compiled lab2 in 78ms
+2024.11.28 12:45:11 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:45:11 INFO  time: compiled lab2 in 91ms
+2024.11.28 12:45:14 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:45:14 INFO  time: compiled lab2 in 84ms
+2024.11.28 12:45:15 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:45:15 INFO  time: compiled lab2 in 89ms
+2024.11.28 12:45:26 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:45:26 INFO  time: compiled lab2 in 80ms
+2024.11.28 12:45:28 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:45:28 INFO  time: compiled lab2 in 82ms
+2024.11.28 12:46:11 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:46:11 INFO  time: compiled lab2 in 0.25s
+2024.11.28 12:46:12 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:46:12 INFO  time: compiled lab2 in 0.24s
+2024.11.28 12:46:20 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:46:20 INFO  time: compiled lab2 in 0.2s
+2024.11.28 12:46:23 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:46:23 INFO  time: compiled lab2 in 0.18s
+2024.11.28 12:46:25 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:46:25 INFO  time: compiled lab2 in 0.27s
+2024.11.28 12:46:26 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\main.scala
+2024.11.28 12:46:28 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\main.scala
+2024.11.28 12:46:32 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\main.scala
+2024.11.28 12:46:33 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:46:33 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\main.scala
+2024.11.28 12:46:33 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\main.scala
+2024.11.28 12:46:33 INFO  time: compiled lab2 in 0.27s
+2024.11.28 12:46:40 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:46:40 INFO  time: compiled lab2 in 0.2s
+2024.11.28 12:48:29 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:48:29 INFO  time: compiled lab2 in 0.12s
+2024.11.28 12:48:52 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:48:52 INFO  time: compiled lab2 in 0.25s
+2024.11.28 12:48:52 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:48:52 WARN  Toplevel definition goodEnoughPassword is defined in
+  C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\.bloop\lab2\bloop-internal-classes\classes-Metals-D5gzv-epSHGId-BzFjebzQ==-Fw1WB9iMR8-o6d1eNhf11A==\goodEnoughPasswordByFuture$package.tasty
+and also in
+  C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\.bloop\lab2\bloop-internal-classes\classes-Metals-D5gzv-epSHGId-BzFjebzQ==-MmUfdTIKQ9eQnajF6lr2hw==\goodEnoughPassword$package.tasty
+Keeping only the definition in C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\.bloop\lab2\bloop-internal-classes\classes-Metals-D5gzv-epSHGId-BzFjebzQ==-Fw1WB9iMR8-o6d1eNhf11A==\goodEnoughPasswordByFuture$package.tasty
+2024.11.28 12:48:52 INFO  time: compiled lab2 in 0.24s
+2024.11.28 12:49:00 INFO  compiling lab2 (2 scala sources)
+2024.11.28 12:49:00 ERROR scalafmt: C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\main.scala:79: error: [dialect scala3] end of file expected but } found
+}
+^
+2024.11.28 12:49:00 INFO  time: compiled lab2 in 0.28s
+2024.11.28 12:49:00 INFO  compiling lab2 (2 scala sources)
+2024.11.28 12:49:00 INFO  time: compiled lab2 in 0.27s
+2024.11.28 12:49:14 ERROR scalafmt: C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\main.scala:79: error: [dialect scala3] end of file expected but } found
+}
+^
+2024.11.28 12:49:14 INFO  compiling lab2 (2 scala sources)
+2024.11.28 12:49:14 INFO  time: compiled lab2 in 0.22s
+2024.11.28 12:49:36 INFO  compiling lab2 (2 scala sources)
+2024.11.28 12:49:36 INFO  time: compiled lab2 in 0.2s
+2024.11.28 12:49:39 INFO  compiling lab2 (2 scala sources)
+2024.11.28 12:49:39 INFO  time: compiled lab2 in 0.2s
+2024.11.28 12:49:40 INFO  compiling lab2 (2 scala sources)
+2024.11.28 12:49:40 INFO  time: compiled lab2 in 0.2s
+2024.11.28 12:49:54 INFO  compiling lab2 (2 scala sources)
+2024.11.28 12:49:54 INFO  time: compiled lab2 in 0.18s
+2024.11.28 12:49:56 INFO  compiling lab2 (2 scala sources)
+2024.11.28 12:49:56 INFO  time: compiled lab2 in 0.18s
+2024.11.28 12:50:00 INFO  compiling lab2 (2 scala sources)
+2024.11.28 12:50:00 INFO  time: compiled lab2 in 0.2s
+2024.11.28 12:50:00 INFO  compiling lab2 (2 scala sources)
+2024.11.28 12:50:00 INFO  time: compiled lab2 in 0.19s
+2024.11.28 12:50:09 INFO  compiling lab2 (2 scala sources)
+2024.11.28 12:50:09 INFO  time: compiled lab2 in 0.19s
+2024.11.28 12:50:25 INFO  compiling lab2 (2 scala sources)
+2024.11.28 12:50:25 INFO  time: compiled lab2 in 0.18s
+2024.11.28 12:50:25 INFO  compiling lab2 (2 scala sources)
+2024.11.28 12:50:25 INFO  time: compiled lab2 in 0.17s
+2024.11.28 12:50:54 INFO  compiling lab2 (2 scala sources)
+2024.11.28 12:50:54 ERROR scalafmt: C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\main.scala:74: error: [dialect scala3] end of file expected but } found
+}
+^
+2024.11.28 12:50:54 INFO  time: compiled lab2 in 0.18s
+2024.11.28 12:50:54 INFO  compiling lab2 (2 scala sources)
+2024.11.28 12:50:54 INFO  time: compiled lab2 in 0.21s
+2024.11.28 12:50:58 INFO  compiling lab2 (2 scala sources)
+2024.11.28 12:50:58 INFO  time: compiled lab2 in 0.21s
+2024.11.28 12:50:58 INFO  compiling lab2 (2 scala sources)
+2024.11.28 12:50:58 INFO  time: compiled lab2 in 0.21s
+2024.11.28 12:51:00 INFO  compiling lab2 (2 scala sources)
+2024.11.28 12:51:00 INFO  time: compiled lab2 in 0.2s
+2024.11.28 12:51:09 INFO  compiling lab2 (2 scala sources)
+2024.11.28 12:51:09 INFO  time: compiled lab2 in 0.18s
+2024.11.28 12:51:11 INFO  compiling lab2 (2 scala sources)
+2024.11.28 12:51:11 INFO  time: compiled lab2 in 0.2s
+2024.11.28 12:51:51 INFO  compiling lab2 (2 scala sources)
+2024.11.28 12:51:51 INFO  time: compiled lab2 in 0.33s
+2024.11.28 12:52:23 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:52:23 INFO  time: compiled lab2 in 0.23s
+2024.11.28 12:54:26 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:54:26 INFO  time: compiled lab2 in 0.22s
+2024.11.28 12:54:31 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:54:31 INFO  time: compiled lab2 in 0.1s
+2024.11.28 12:54:33 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:54:33 INFO  time: compiled lab2 in 86ms
+2024.11.28 12:54:35 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:54:35 INFO  time: compiled lab2 in 81ms
+2024.11.28 12:54:36 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:54:36 INFO  time: compiled lab2 in 0.19s
+2024.11.28 12:55:15 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\.metals\dap-server.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2024.11.28 12:55:15 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\.metals\dap-client.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2024.11.28 12:55:16 INFO  Starting debug proxy for [hello]
+2024.11.28 12:55:17 INFO  Loaded expression compiler in 1 second
+2024.11.28 12:55:17 INFO  Loaded step filter in 714 milliseconds
+2024.11.28 12:55:18 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\.metals\dap-server.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2024.11.28 12:55:18 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\.metals\dap-client.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2024.11.28 12:55:18 INFO  Starting debug proxy for [hello]
+2024.11.28 12:55:18 INFO  Loaded expression compiler in 0 milliseconds
+2024.11.28 12:55:18 INFO  Loaded step filter in 0 milliseconds
+2024.11.28 12:55:20 WARN  Cannot list the class files in C:\Users\dima-\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala3-library_3\3.4.0\scala3-library_3-3.4.0.jar: ClosedFileSystemException null
+2024.11.28 12:55:20 WARN  Cannot list the class files in C:\Users\dima-\AppData\Local\bloop\cache\semanticdb\com.sourcegraph.semanticdb-javac.0.10.3\semanticdb-javac-0.10.3.jar: ClosedFileSystemException null
+2024.11.28 12:55:20 WARN  Cannot list the class files in C:\Users\dima-\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.12\scala-library-2.13.12.jar: AsynchronousCloseException null
+2024.11.28 12:55:21 INFO  Loaded all sources and classes in 2 seconds
+2024.11.28 12:55:21 INFO  Loaded all sources and classes in 3 seconds
+2024.11.28 12:55:21 INFO  Initialized Scala 3 decoder in 805 milliseconds
+2024.11.28 12:55:21 INFO  Initialized Scala 3 decoder in 806 milliseconds
+2024.11.28 12:55:21 INFO  Trying to attach to remote debuggee VM 127.0.0.1:61537 .
+2024.11.28 12:55:21 INFO  Trying to attach to remote debuggee VM 127.0.0.1:61545 .
+2024.11.28 12:55:21 INFO  Attaching to debuggee VM succeeded.
+2024.11.28 12:55:21 INFO  Attaching to debuggee VM succeeded.
+2024.11.28 12:55:23 INFO  Canceling debug proxy for [hello]
+2024.11.28 12:55:23 INFO  Canceling debug proxy for [hello]
+2024.11.28 12:55:23 INFO  Closing debug server tcp://0.0.0.0:61534
+2024.11.28 12:55:23 INFO  Closing debug server tcp://0.0.0.0:61543
+2024.11.28 12:55:38 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\.metals\dap-server.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2024.11.28 12:55:38 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\.metals\dap-client.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2024.11.28 12:55:38 INFO  Starting debug proxy for [hello]
+2024.11.28 12:55:38 INFO  Loaded expression compiler in 1 millisecond
+2024.11.28 12:55:38 INFO  Loaded step filter in 0 milliseconds
+2024.11.28 12:55:39 INFO  Loaded all sources and classes in 1 second
+2024.11.28 12:55:39 INFO  Initialized Scala 3 decoder in 270 milliseconds
+2024.11.28 12:55:39 INFO  Trying to attach to remote debuggee VM 127.0.0.1:61552 .
+2024.11.28 12:55:39 INFO  Attaching to debuggee VM succeeded.
+2024.11.28 12:55:40 INFO  Canceling debug proxy for [hello]
+2024.11.28 12:55:39 INFO  Closing debug server tcp://0.0.0.0:61550
+2024.11.28 12:55:59 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\.metals\dap-server.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2024.11.28 12:55:59 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\.metals\dap-client.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2024.11.28 12:55:59 INFO  Starting debug proxy for [hello]
+2024.11.28 12:55:59 INFO  Loaded expression compiler in 0 milliseconds
+2024.11.28 12:55:59 INFO  Loaded step filter in 0 milliseconds
+2024.11.28 12:55:59 INFO  Loaded all sources and classes in 946 milliseconds
+2024.11.28 12:56:01 INFO  Initialized Scala 3 decoder in 255 milliseconds
+2024.11.28 12:56:01 INFO  Trying to attach to remote debuggee VM 127.0.0.1:61558 .
+2024.11.28 12:56:01 INFO  Attaching to debuggee VM succeeded.
+2024.11.28 12:56:01 INFO  Canceling debug proxy for [hello]
+2024.11.28 12:56:01 INFO  Closing debug server tcp://0.0.0.0:61556
+2024.11.28 12:56:05 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\.metals\dap-server.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2024.11.28 12:56:05 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\.metals\dap-client.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2024.11.28 12:56:05 INFO  Starting debug proxy for [hello]
+2024.11.28 12:56:05 INFO  Loaded expression compiler in 0 milliseconds
+2024.11.28 12:56:05 INFO  Loaded step filter in 0 milliseconds
+2024.11.28 12:56:05 INFO  Loaded all sources and classes in 924 milliseconds
+2024.11.28 12:56:06 INFO  Initialized Scala 3 decoder in 298 milliseconds
+2024.11.28 12:56:06 INFO  Trying to attach to remote debuggee VM 127.0.0.1:61564 .
+2024.11.28 12:56:06 INFO  Attaching to debuggee VM succeeded.
+2024.11.28 12:56:07 INFO  Canceling debug proxy for [hello]
+2024.11.28 12:56:06 INFO  Closing debug server tcp://0.0.0.0:61562
+2024.11.28 12:56:23 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\.metals\dap-server.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2024.11.28 12:56:23 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\.metals\dap-client.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2024.11.28 12:56:23 INFO  Starting debug proxy for [hello]
+2024.11.28 12:56:23 INFO  Loaded expression compiler in 0 milliseconds
+2024.11.28 12:56:23 INFO  Loaded step filter in 0 milliseconds
+2024.11.28 12:56:23 INFO  Loaded all sources and classes in 935 milliseconds
+2024.11.28 12:56:24 INFO  Initialized Scala 3 decoder in 251 milliseconds
+2024.11.28 12:56:24 INFO  Trying to attach to remote debuggee VM 127.0.0.1:61571 .
+2024.11.28 12:56:24 INFO  Attaching to debuggee VM succeeded.
+2024.11.28 12:56:35 INFO  Canceling debug proxy for [hello]
+2024.11.28 12:56:35 INFO  Closing debug server tcp://0.0.0.0:61569
+2024.11.28 12:59:57 INFO  compiling lab2 (1 scala source)
+2024.11.28 12:59:57 INFO  time: compiled lab2 in 0.12s
+2024.11.28 13:00:00 INFO  time: compiled lab2 in 1ms
+2024.11.28 13:00:12 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:00:12 INFO  time: compiled lab2 in 0.25s
+2024.11.28 13:00:18 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:00:18 INFO  time: compiled lab2 in 0.11s
+2024.11.28 13:00:21 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:00:21 INFO  time: compiled lab2 in 98ms
+2024.11.28 13:00:22 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:00:22 INFO  time: compiled lab2 in 84ms
+2024.11.28 13:00:24 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:00:24 INFO  time: compiled lab2 in 0.13s
+2024.11.28 13:00:29 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:00:29 INFO  time: compiled lab2 in 0.17s
+2024.11.28 13:00:32 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:00:32 INFO  time: compiled lab2 in 0.12s
+2024.11.28 13:00:40 INFO  time: compiled lab2 in 12ms
+2024.11.28 13:00:40 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:00:40 INFO  time: compiled lab2 in 0.18s
+2024.11.28 13:02:06 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:02:06 INFO  time: compiled lab2 in 0.11s
+2024.11.28 13:02:12 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:02:12 INFO  time: compiled lab2 in 78ms
+2024.11.28 13:02:15 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:02:15 INFO  time: compiled lab2 in 77ms
+2024.11.28 13:02:20 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:02:20 INFO  time: compiled lab2 in 83ms
+2024.11.28 13:02:22 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:02:22 INFO  time: compiled lab2 in 82ms
+2024.11.28 13:02:39 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:02:39 INFO  time: compiled lab2 in 76ms
+2024.11.28 13:02:40 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:02:40 INFO  time: compiled lab2 in 0.1s
+2024.11.28 13:02:41 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:02:41 INFO  time: compiled lab2 in 83ms
+2024.11.28 13:02:44 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:02:44 INFO  time: compiled lab2 in 93ms
+2024.11.28 13:02:44 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:02:45 INFO  time: compiled lab2 in 80ms
+нояб. 28, 2024 1:02:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5482
+2024.11.28 13:02:50 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:02:50 INFO  time: compiled lab2 in 0.24s
+2024.11.28 13:02:50 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:02:50 INFO  time: compiled lab2 in 0.17s
+2024.11.28 13:02:53 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:02:53 INFO  time: compiled lab2 in 98ms
+2024.11.28 13:02:53 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:02:53 INFO  time: compiled lab2 in 95ms
+2024.11.28 13:02:56 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:02:56 INFO  time: compiled lab2 in 87ms
+2024.11.28 13:03:11 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:03:11 INFO  time: compiled lab2 in 81ms
+2024.11.28 13:03:31 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:03:31 INFO  time: compiled lab2 in 0.11s
+2024.11.28 13:03:31 WARN  Could not find 'println' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+2024.11.28 13:03:31 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:03:31 INFO  time: compiled lab2 in 70ms
+2024.11.28 13:03:37 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:03:37 INFO  time: compiled lab2 in 62ms
+2024.11.28 13:04:02 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:04:02 INFO  time: compiled lab2 in 0.19s
+2024.11.28 13:04:06 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:04:06 INFO  time: compiled lab2 in 0.23s
+2024.11.28 13:04:10 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:04:10 INFO  time: compiled lab2 in 0.19s
+2024.11.28 13:04:15 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:04:15 INFO  time: compiled lab2 in 95ms
+2024.11.28 13:04:17 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:04:17 INFO  time: compiled lab2 in 0.11s
+2024.11.28 13:04:27 ERROR C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\main.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:76)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop$3(ScalaToplevelMtags.scala:966)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.acceptWhileIndented(ScalaToplevelMtags.scala:980)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:365)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:88)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:485)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:583)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:580)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:580)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:947)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.11.28 13:04:27 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:04:27 INFO  time: compiled lab2 in 91ms
+2024.11.28 13:04:29 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:04:29 INFO  time: compiled lab2 in 81ms
+2024.11.28 13:04:31 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:04:31 INFO  time: compiled lab2 in 77ms
+2024.11.28 13:04:33 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:04:33 INFO  time: compiled lab2 in 88ms
+2024.11.28 13:04:38 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:04:38 INFO  time: compiled lab2 in 0.18s
+2024.11.28 13:04:40 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:04:40 INFO  time: compiled lab2 in 0.11s
+2024.11.28 13:04:42 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:04:42 INFO  time: compiled lab2 in 0.1s
+2024.11.28 13:04:46 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:04:46 INFO  time: compiled lab2 in 0.17s
+2024.11.28 13:04:46 ERROR scalafmt: C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\main.scala:67: error: [dialect scala3] } expected but case found
+        case Success(password) =>
+        ^
+2024.11.28 13:04:46 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:04:46 INFO  time: compiled lab2 in 0.19s
+2024.11.28 13:04:51 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:04:51 INFO  time: compiled lab2 in 0.11s
+2024.11.28 13:05:41 WARN  Could not find 'println' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+2024.11.28 13:05:41 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:05:41 INFO  time: compiled lab2 in 0.14s
+2024.11.28 13:05:41 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:05:41 INFO  time: compiled lab2 in 99ms
+2024.11.28 13:05:54 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:05:54 INFO  time: compiled lab2 in 0.1s
+2024.11.28 13:06:30 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:06:30 INFO  time: compiled lab2 in 0.1s
+2024.11.28 13:06:46 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:06:46 INFO  time: compiled lab2 in 95ms
+2024.11.28 13:08:15 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:08:15 INFO  time: compiled lab2 in 0.24s
+2024.11.28 13:08:15 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:08:15 INFO  time: compiled lab2 in 0.21s
+2024.11.28 13:08:21 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:08:21 INFO  time: compiled lab2 in 0.19s
+2024.11.28 13:08:22 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:08:22 INFO  time: compiled lab2 in 0.19s
+2024.11.28 13:08:28 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:08:28 INFO  time: compiled lab2 in 0.25s
+2024.11.28 13:08:54 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:08:54 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\main.scala
+2024.11.28 13:08:54 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\main.scala
+2024.11.28 13:08:54 INFO  time: compiled lab2 in 0.17s
+2024.11.28 13:08:54 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:08:54 INFO  time: compiled lab2 in 0.14s
+2024.11.28 13:08:55 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\main.scala
+2024.11.28 13:09:03 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\main.scala
+2024.11.28 13:09:04 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:09:04 INFO  time: compiled lab2 in 0.15s
+2024.11.28 13:09:04 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\main.scala
+2024.11.28 13:09:04 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\main.scala
+2024.11.28 13:09:05 INFO  time: compiled lab2 in 10ms
+2024.11.28 13:09:56 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:09:56 INFO  time: compiled lab2 in 0.21s
+2024.11.28 13:10:01 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:10:01 INFO  time: compiled lab2 in 0.19s
+2024.11.28 13:10:10 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:10:10 INFO  time: compiled lab2 in 0.2s
+2024.11.28 13:10:16 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\main.scala
+2024.11.28 13:10:16 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\main.scala
+2024.11.28 13:10:16 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\main.scala
+2024.11.28 13:10:16 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:10:16 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\main.scala
+2024.11.28 13:10:16 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\main.scala
+2024.11.28 13:10:16 INFO  time: compiled lab2 in 0.2s
+2024.11.28 13:10:21 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:10:21 INFO  time: compiled lab2 in 0.18s
+2024.11.28 13:10:34 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:10:34 INFO  time: compiled lab2 in 0.2s
+2024.11.28 13:10:38 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:10:38 INFO  time: compiled lab2 in 0.12s
+2024.11.28 13:10:40 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:10:40 INFO  time: compiled lab2 in 0.19s
+2024.11.28 13:10:45 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:10:45 INFO  time: compiled lab2 in 0.18s
+2024.11.28 13:12:03 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:12:03 INFO  time: compiled lab2 in 0.26s
+2024.11.28 13:12:54 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:12:54 INFO  time: compiled lab2 in 0.19s
+2024.11.28 13:12:54 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:12:55 INFO  time: compiled lab2 in 0.13s
+2024.11.28 13:13:08 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:13:08 INFO  time: compiled lab2 in 0.19s
+2024.11.28 13:14:02 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:14:02 INFO  time: compiled lab2 in 67ms
+2024.11.28 13:14:10 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:14:10 INFO  time: compiled lab2 in 91ms
+2024.11.28 13:14:14 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:14:14 INFO  time: compiled lab2 in 84ms
+2024.11.28 13:14:27 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:14:27 INFO  time: compiled lab2 in 89ms
+2024.11.28 13:14:28 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:14:28 INFO  time: compiled lab2 in 66ms
+2024.11.28 13:14:32 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:14:32 INFO  time: compiled lab2 in 75ms
+2024.11.28 13:14:42 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:14:42 INFO  time: compiled lab2 in 75ms
+2024.11.28 13:14:47 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:14:47 INFO  time: compiled lab2 in 0.1s
+2024.11.28 13:14:51 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:14:51 ERROR scalafmt: C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\test.scala:67: error: [dialect scala3] illegal start of declaration (possible cause: missing `=' in front of current method body)
+    validatePassword().onComplete {
+    ^
+2024.11.28 13:14:51 INFO  time: compiled lab2 in 89ms
+2024.11.28 13:14:51 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:14:51 INFO  time: compiled lab2 in 78ms
+2024.11.28 13:15:01 ERROR scalafmt: C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\test.scala:67: error: [dialect scala3] illegal start of declaration (possible cause: missing `=' in front of current method body)
+    validatePassword().onComplete {
+    ^
+2024.11.28 13:15:01 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:15:01 INFO  time: compiled lab2 in 81ms
+2024.11.28 13:15:14 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:15:14 INFO  time: compiled lab2 in 0.23s
+2024.11.28 13:17:51 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:17:51 INFO  time: compiled lab2 in 0.12s
+2024.11.28 13:17:54 INFO  time: compiled lab2 in 12ms
+2024.11.28 13:17:59 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:17:59 INFO  time: compiled lab2 in 0.24s
+2024.11.28 13:18:05 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:18:05 INFO  time: compiled lab2 in 0.19s
+2024.11.28 13:18:07 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:18:07 INFO  time: compiled lab2 in 0.22s
+2024.11.28 13:18:12 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:18:12 INFO  time: compiled lab2 in 95ms
+2024.11.28 13:18:14 INFO  time: compiled lab2 in 1ms
+2024.11.28 13:23:51 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:23:51 INFO  time: compiled lab2 in 0.23s
+2024.11.28 13:23:58 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:23:58 INFO  time: compiled lab2 in 0.15s
+2024.11.28 13:23:58 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:23:58 INFO  time: compiled lab2 in 93ms
+2024.11.28 13:24:19 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:24:19 INFO  time: compiled lab2 in 0.14s
+2024.11.28 13:24:19 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:24:19 INFO  time: compiled lab2 in 82ms
+2024.11.28 13:24:23 WARN  Could not find semantic tokens for: file:///C:/Users/dima-/OneDrive/Desktop/ФП/Functional_Programming/lab2/src/main/scala/goodEnoughPassword.scala
+2024.11.28 13:24:25 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:24:25 INFO  time: compiled lab2 in 63ms
+2024.11.28 13:24:29 WARN  Could not find semantic tokens for: file:///C:/Users/dima-/OneDrive/Desktop/ФП/Functional_Programming/lab2/src/main/scala/goodEnoughPassword.scala
+2024.11.28 13:24:29 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:24:29 INFO  time: compiled lab2 in 46ms
+2024.11.28 13:24:29 WARN  Could not find semantic tokens for: file:///C:/Users/dima-/OneDrive/Desktop/ФП/Functional_Programming/lab2/src/main/scala/goodEnoughPassword.scala
+2024.11.28 13:24:30 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:24:30 INFO  time: compiled lab2 in 0.14s
+2024.11.28 13:24:30 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:24:30 INFO  time: compiled lab2 in 85ms
+2024.11.28 13:24:32 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:24:32 INFO  time: compiled lab2 in 0.16s
+2024.11.28 13:24:32 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:24:32 INFO  time: compiled lab2 in 0.17s
+2024.11.28 13:24:32 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:24:32 INFO  time: compiled lab2 in 0.14s
+2024.11.28 13:24:32 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:24:32 INFO  time: compiled lab2 in 0.18s
+2024.11.28 13:25:26 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:25:26 INFO  time: compiled lab2 in 95ms
+2024.11.28 13:25:27 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:25:27 INFO  time: compiled lab2 in 87ms
+нояб. 28, 2024 1:25:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7686
+2024.11.28 13:25:29 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:25:29 INFO  time: compiled lab2 in 79ms
+2024.11.28 13:25:33 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:25:33 INFO  time: compiled lab2 in 86ms
+2024.11.28 13:25:34 ERROR scalafmt: C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\main.scala:29: error: [dialect scala3] case expected but identifier found
+          println(s"Password \t'$password \t ' is invalid: $reason"))
+          ^
+2024.11.28 13:25:33 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:25:33 INFO  time: compiled lab2 in 77ms
+2024.11.28 13:25:40 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:25:40 INFO  time: compiled lab2 in 95ms
+2024.11.28 13:25:41 ERROR scalafmt: C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\main.scala:29: error: [dialect scala3] } expected but outdent found
+          println(s"Password \t'$password \t ' is invalid: $reason"))
+                                                                   ^
+2024.11.28 13:25:41 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:25:41 INFO  time: compiled lab2 in 77ms
+2024.11.28 13:25:47 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:25:47 INFO  time: compiled lab2 in 80ms
+2024.11.28 13:26:31 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:26:31 INFO  time: compiled lab2 in 96ms
+2024.11.28 13:26:36 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:26:36 INFO  time: compiled lab2 in 78ms
+2024.11.28 13:26:45 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:26:45 INFO  time: compiled lab2 in 97ms
+2024.11.28 13:26:48 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:26:48 INFO  time: compiled lab2 in 86ms
+2024.11.28 13:26:53 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:26:53 INFO  time: compiled lab2 in 0.2s
+2024.11.28 13:26:54 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:26:54 INFO  time: compiled lab2 in 77ms
+2024.11.28 13:26:55 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:26:55 INFO  time: compiled lab2 in 73ms
+2024.11.28 13:27:07 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:27:07 INFO  time: compiled lab2 in 0.17s
+2024.11.28 13:27:11 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:27:11 INFO  time: compiled lab2 in 82ms
+2024.11.28 13:27:13 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:27:13 INFO  time: compiled lab2 in 70ms
+2024.11.28 13:27:18 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:27:18 INFO  time: compiled lab2 in 78ms
+2024.11.28 13:27:24 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:27:24 INFO  time: compiled lab2 in 95ms
+2024.11.28 13:27:25 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:27:25 INFO  time: compiled lab2 in 75ms
+2024.11.28 13:27:28 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:27:28 INFO  time: compiled lab2 in 74ms
+нояб. 28, 2024 1:27:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8100
+2024.11.28 13:27:38 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:27:38 INFO  time: compiled lab2 in 81ms
+2024.11.28 13:27:40 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:27:40 INFO  time: compiled lab2 in 70ms
+2024.11.28 13:27:42 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:27:42 ERROR scalafmt: C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\main.scala:34: error: [dialect scala3] } expected but case found
+    case _: 3 => {
+    ^
+2024.11.28 13:27:42 INFO  time: compiled lab2 in 75ms
+2024.11.28 13:27:42 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:27:42 INFO  time: compiled lab2 in 73ms
+2024.11.28 13:27:49 ERROR scalafmt: C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\main.scala:34: error: [dialect scala3] } expected but case found
+    case _: 3 => {
+    ^
+2024.11.28 13:27:49 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:27:49 INFO  time: compiled lab2 in 76ms
+2024.11.28 13:27:50 ERROR scalafmt: C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\main.scala:34: error: [dialect scala3] } expected but case found
+    case _: 3 => {
+    ^
+2024.11.28 13:27:50 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:27:50 INFO  time: compiled lab2 in 68ms
+2024.11.28 13:27:58 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:27:58 INFO  time: compiled lab2 in 79ms
+2024.11.28 13:27:58 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:27:59 INFO  time: compiled lab2 in 0.2s
+2024.11.28 13:28:15 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:28:15 INFO  time: compiled lab2 in 0.2s
+2024.11.28 13:28:18 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:28:18 INFO  time: compiled lab2 in 0.19s
+2024.11.28 13:29:05 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:29:05 INFO  time: compiled lab2 in 94ms
+2024.11.28 13:29:08 ERROR C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\main.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:76)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop$3(ScalaToplevelMtags.scala:966)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.acceptWhileIndented(ScalaToplevelMtags.scala:980)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:365)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:88)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:485)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:583)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:580)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:580)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:947)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.11.28 13:29:08 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:29:08 INFO  time: compiled lab2 in 70ms
+2024.11.28 13:29:14 ERROR C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\main.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:76)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop$3(ScalaToplevelMtags.scala:966)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.acceptWhileIndented(ScalaToplevelMtags.scala:980)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:365)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:88)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:485)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:583)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:580)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:580)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:947)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.11.28 13:29:14 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:29:14 ERROR scalafmt: C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\main.scala:31: error: [dialect scala3] } expected but case found
+    case _: 3 => {
+    ^
+2024.11.28 13:29:14 ERROR C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\main.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:76)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop$3(ScalaToplevelMtags.scala:966)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.acceptWhileIndented(ScalaToplevelMtags.scala:980)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:365)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:88)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:485)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:583)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:580)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:580)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:947)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.11.28 13:29:14 INFO  time: compiled lab2 in 74ms
+2024.11.28 13:29:14 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:29:14 INFO  time: compiled lab2 in 83ms
+2024.11.28 13:29:20 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:29:20 INFO  time: compiled lab2 in 0.18s
+2024.11.28 13:29:36 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:29:36 INFO  time: compiled lab2 in 84ms
+2024.11.28 13:29:44 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:29:44 INFO  time: compiled lab2 in 85ms
+2024.11.28 13:29:47 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:29:47 INFO  time: compiled lab2 in 65ms
+2024.11.28 13:29:49 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:29:49 INFO  time: compiled lab2 in 72ms
+2024.11.28 13:29:54 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:29:54 INFO  time: compiled lab2 in 65ms
+2024.11.28 13:30:01 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:30:01 INFO  time: compiled lab2 in 0.1s
+2024.11.28 13:30:04 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:30:04 INFO  time: compiled lab2 in 91ms
+2024.11.28 13:30:09 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:30:09 INFO  time: compiled lab2 in 71ms
+2024.11.28 13:30:17 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:30:17 INFO  time: compiled lab2 in 79ms
+2024.11.28 13:30:18 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:30:18 INFO  time: compiled lab2 in 76ms
+2024.11.28 13:30:23 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:30:23 INFO  time: compiled lab2 in 78ms
+2024.11.28 13:30:24 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:30:24 INFO  time: compiled lab2 in 63ms
+2024.11.28 13:30:31 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:30:31 INFO  time: compiled lab2 in 71ms
+2024.11.28 13:30:42 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:30:42 INFO  time: compiled lab2 in 71ms
+2024.11.28 13:30:44 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:30:44 INFO  time: compiled lab2 in 0.17s
+2024.11.28 13:30:44 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:30:44 INFO  time: compiled lab2 in 0.18s
+2024.11.28 13:30:48 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:30:48 INFO  time: compiled lab2 in 0.17s
+2024.11.28 13:30:51 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:30:51 INFO  time: compiled lab2 in 0.15s
+2024.11.28 13:30:56 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:30:56 INFO  time: compiled lab2 in 0.14s
+2024.11.28 13:31:32 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:31:32 INFO  time: compiled lab2 in 0.2s
+2024.11.28 13:32:33 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:32:33 INFO  time: compiled lab2 in 82ms
+2024.11.28 13:32:37 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:32:37 INFO  time: compiled lab2 in 77ms
+нояб. 28, 2024 1:32:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8936
+2024.11.28 13:32:40 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:32:40 INFO  time: compiled lab2 in 75ms
+2024.11.28 13:32:43 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:32:43 INFO  time: compiled lab2 in 72ms
+2024.11.28 13:32:47 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:32:47 INFO  time: compiled lab2 in 65ms
+2024.11.28 13:32:51 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:32:51 INFO  time: compiled lab2 in 77ms
+2024.11.28 13:32:53 ERROR C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\main.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:76)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop$3(ScalaToplevelMtags.scala:966)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.acceptWhileIndented(ScalaToplevelMtags.scala:980)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:365)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:88)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:485)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:583)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:580)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1303)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:580)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:947)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.11.28 13:32:53 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:32:53 INFO  time: compiled lab2 in 70ms
+2024.11.28 13:32:56 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:32:56 INFO  time: compiled lab2 in 83ms
+2024.11.28 13:33:01 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:33:01 INFO  time: compiled lab2 in 72ms
+2024.11.28 13:33:02 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:33:02 INFO  time: compiled lab2 in 64ms
+2024.11.28 13:33:04 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:33:04 INFO  time: compiled lab2 in 0.2s
+2024.11.28 13:35:16 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:35:16 INFO  time: compiled lab2 in 0.28s
+2024.11.28 13:35:47 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:35:47 INFO  time: compiled lab2 in 0.22s
+2024.11.28 13:35:47 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:35:47 INFO  time: compiled lab2 in 0.15s
+2024.11.28 13:36:08 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:36:08 INFO  time: compiled lab2 in 76ms
+2024.11.28 13:36:09 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\goodEnoughPasswordByFuture.scala
+2024.11.28 13:36:12 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\goodEnoughPasswordByFuture.scala
+2024.11.28 13:36:13 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:36:13 INFO  time: compiled lab2 in 55ms
+2024.11.28 13:36:13 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\goodEnoughPasswordByFuture.scala
+2024.11.28 13:36:16 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\goodEnoughPasswordByFuture.scala
+2024.11.28 13:36:16 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\goodEnoughPasswordByFuture.scala
+2024.11.28 13:36:16 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\goodEnoughPasswordByFuture.scala
+2024.11.28 13:36:16 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\goodEnoughPasswordByFuture.scala
+2024.11.28 13:36:16 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\goodEnoughPasswordByFuture.scala
+2024.11.28 13:36:16 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\goodEnoughPasswordByFuture.scala
+2024.11.28 13:36:16 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\goodEnoughPasswordByFuture.scala
+2024.11.28 13:36:16 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\goodEnoughPasswordByFuture.scala
+2024.11.28 13:36:16 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\goodEnoughPasswordByFuture.scala
+2024.11.28 13:36:16 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\goodEnoughPasswordByFuture.scala
+2024.11.28 13:36:16 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\goodEnoughPasswordByFuture.scala
+2024.11.28 13:36:16 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\goodEnoughPasswordByFuture.scala
+2024.11.28 13:36:16 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\goodEnoughPasswordByFuture.scala
+2024.11.28 13:36:16 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\goodEnoughPasswordByFuture.scala
+2024.11.28 13:36:16 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\goodEnoughPasswordByFuture.scala
+2024.11.28 13:36:17 INFO  time: compiled lab2 in 12ms
+2024.11.28 13:36:19 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:36:19 INFO  time: compiled lab2 in 76ms
+2024.11.28 13:36:26 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:36:26 INFO  time: compiled lab2 in 95ms
+2024.11.28 13:36:34 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:36:34 INFO  time: compiled lab2 in 78ms
+2024.11.28 13:36:36 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:36:36 INFO  time: compiled lab2 in 82ms
+2024.11.28 13:37:25 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:37:25 INFO  time: compiled lab2 in 61ms
+2024.11.28 13:37:45 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:37:45 INFO  time: compiled lab2 in 78ms
+2024.11.28 13:37:51 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:37:51 INFO  time: compiled lab2 in 84ms
+2024.11.28 13:38:21 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:38:21 INFO  time: compiled lab2 in 83ms
+2024.11.28 13:38:24 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:38:24 INFO  time: compiled lab2 in 88ms
+2024.11.28 13:38:34 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:38:34 INFO  time: compiled lab2 in 91ms
+2024.11.28 13:38:35 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:38:35 INFO  time: compiled lab2 in 0.16s
+2024.11.28 13:38:35 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:38:35 INFO  time: compiled lab2 in 64ms
+2024.11.28 13:39:29 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:39:29 INFO  time: compiled lab2 in 90ms
+2024.11.28 13:39:37 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:39:37 INFO  time: compiled lab2 in 76ms
+2024.11.28 13:40:07 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:40:07 INFO  time: compiled lab2 in 76ms
+2024.11.28 13:40:12 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:40:12 INFO  time: compiled lab2 in 78ms
+2024.11.28 13:40:23 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:40:23 INFO  time: compiled lab2 in 0.23s
+2024.11.28 13:41:08 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:41:08 INFO  time: compiled lab2 in 84ms
+2024.11.28 13:41:10 INFO  time: compiled lab2 in 12ms
+2024.11.28 13:41:29 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:41:29 INFO  time: compiled lab2 in 0.18s
+2024.11.28 13:42:09 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:42:09 INFO  time: compiled lab2 in 0.23s
+2024.11.28 13:42:13 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:42:13 INFO  time: compiled lab2 in 99ms
+2024.11.28 13:42:15 INFO  time: compiled lab2 in 2ms
+2024.11.28 13:43:05 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:43:05 INFO  time: compiled lab2 in 0.15s
+2024.11.28 13:43:05 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\goodEnoughPasswordByFuture.scala
+2024.11.28 13:43:16 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\goodEnoughPasswordByFuture.scala
+2024.11.28 13:43:53 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\goodEnoughPasswordByFuture.scala
+2024.11.28 13:43:53 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\goodEnoughPasswordByFuture.scala
+2024.11.28 13:43:53 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\goodEnoughPasswordByFuture.scala
+2024.11.28 13:43:53 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\goodEnoughPasswordByFuture.scala
+2024.11.28 13:43:53 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\goodEnoughPasswordByFuture.scala
+2024.11.28 13:43:53 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\goodEnoughPasswordByFuture.scala
+2024.11.28 13:43:54 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\goodEnoughPasswordByFuture.scala
+2024.11.28 13:43:54 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\goodEnoughPasswordByFuture.scala
+2024.11.28 13:43:54 INFO  time: compiled lab2 in 1ms
+2024.11.28 13:46:00 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:46:00 INFO  time: compiled lab2 in 0.2s
+2024.11.28 13:46:33 ERROR scalafmt: C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\goodEnoughPasswordByTry.scala:34: error: [dialect scala3] ) expected but } found
+}
+^
+2024.11.28 13:46:33 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:46:33 INFO  time: compiled lab2 in 0.17s
+2024.11.28 13:46:40 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:46:40 INFO  time: compiled lab2 in 0.16s
+нояб. 28, 2024 1:46:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10100
+2024.11.28 13:47:00 INFO  time: compiled lab2 in 1ms
+2024.11.28 13:47:05 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:47:05 INFO  time: compiled lab2 in 0.17s
+2024.11.28 13:47:05 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:47:05 INFO  time: compiled lab2 in 0.11s
+2024.11.28 13:47:41 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:47:41 INFO  time: compiled lab2 in 0.2s
+2024.11.28 13:47:41 INFO  compiling lab2 (2 scala sources)
+2024.11.28 13:47:41 INFO  time: compiled lab2 in 94ms
+2024.11.28 13:47:59 INFO  compiling lab2 (3 scala sources)
+2024.11.28 13:47:59 INFO  time: compiled lab2 in 0.24s
+2024.11.28 13:48:35 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:48:35 INFO  time: compiled lab2 in 0.18s
+2024.11.28 13:48:39 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:48:39 INFO  time: compiled lab2 in 0.17s
+2024.11.28 13:48:45 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:48:45 INFO  time: compiled lab2 in 0.15s
+2024.11.28 13:48:46 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:48:46 INFO  time: compiled lab2 in 81ms
+нояб. 28, 2024 1:48:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10377
+2024.11.28 13:48:50 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:48:50 INFO  time: compiled lab2 in 0.16s
+2024.11.28 13:49:37 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:49:37 INFO  time: compiled lab2 in 96ms
+2024.11.28 13:49:45 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:49:45 INFO  time: compiled lab2 in 0.2s
+2024.11.28 13:49:45 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:49:45 INFO  time: compiled lab2 in 0.17s
+2024.11.28 13:50:12 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:50:12 INFO  time: compiled lab2 in 0.21s
+2024.11.28 13:50:14 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:50:14 INFO  time: compiled lab2 in 0.16s
+2024.11.28 13:50:15 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:50:15 INFO  time: compiled lab2 in 0.18s
+2024.11.28 13:50:31 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:50:31 INFO  time: compiled lab2 in 79ms
+2024.11.28 13:50:39 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:50:39 INFO  time: compiled lab2 in 77ms
+2024.11.28 13:50:41 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:50:41 INFO  time: compiled lab2 in 69ms
+2024.11.28 13:50:42 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:50:42 INFO  time: compiled lab2 in 0.17s
+2024.11.28 13:50:46 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:50:46 INFO  time: compiled lab2 in 0.18s
+2024.11.28 13:50:51 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:50:51 INFO  time: compiled lab2 in 0.18s
+2024.11.28 13:50:52 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:50:52 INFO  time: compiled lab2 in 0.19s
+2024.11.28 13:52:19 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:52:19 INFO  time: compiled lab2 in 0.22s
+2024.11.28 13:52:28 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:52:28 INFO  time: compiled lab2 in 0.17s
+2024.11.28 13:52:52 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:52:52 INFO  time: compiled lab2 in 0.26s
+2024.11.28 13:52:55 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:52:55 INFO  time: compiled lab2 in 0.24s
+2024.11.28 13:52:56 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:52:56 INFO  time: compiled lab2 in 0.19s
+2024.11.28 13:55:11 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:55:11 INFO  time: compiled lab2 in 0.3s
+2024.11.28 13:55:19 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:55:19 INFO  time: compiled lab2 in 0.25s
+2024.11.28 13:57:14 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:57:14 INFO  time: compiled lab2 in 0.24s
+2024.11.28 13:57:17 INFO  compiling lab2 (1 scala source)
+2024.11.28 13:57:17 INFO  time: compiled lab2 in 88ms
+2024.11.28 13:57:18 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\main.scala
+2024.11.28 13:57:23 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\main.scala
+2024.11.28 13:57:23 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\main.scala
+2024.11.28 13:57:24 INFO  time: compiled lab2 in 3ms
+2024.11.28 14:58:12 INFO  compiling lab2 (1 scala source)
+2024.11.28 14:58:12 INFO  time: compiled lab2 in 59ms
+2024.11.28 14:58:12 INFO  compiling lab2 (1 scala source)
+2024.11.28 14:58:12 INFO  time: compiled lab2 in 0.18s
+2024.11.28 15:01:35 INFO  compiling lab2 (1 scala source)
+2024.11.28 15:01:35 INFO  time: compiled lab2 in 48ms
+2024.11.28 15:01:35 INFO  compiling lab2 (1 scala source)
+2024.11.28 15:01:35 INFO  time: compiled lab2 in 0.16s
+2024.11.28 15:03:15 INFO  compiling lab2 (2 scala sources)
+2024.11.28 15:03:15 INFO  time: compiled lab2 in 0.33s
+2024.11.28 15:03:19 INFO  compiling lab2 (2 scala sources)
+2024.11.28 15:03:19 INFO  time: compiled lab2 in 0.29s
+нояб. 28, 2024 3:03:24 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.11.28 15:03:24 INFO  compiling lab2 (3 scala sources)
+2024.11.28 15:03:24 INFO  time: compiled lab2 in 0.3s
+2024.11.28 15:03:28 INFO  compiling lab2 (2 scala sources)
+2024.11.28 15:03:28 INFO  time: compiled lab2 in 0.14s
+2024.11.28 15:03:30 INFO  compiling lab2 (1 scala source)
+2024.11.28 15:03:30 INFO  time: compiled lab2 in 0.2s
+2024.11.28 15:03:32 INFO  compiling lab2 (2 scala sources)
+2024.11.28 15:03:32 INFO  time: compiled lab2 in 0.21s
+2024.11.28 15:03:33 INFO  compiling lab2 (2 scala sources)
+2024.11.28 15:03:33 INFO  time: compiled lab2 in 0.16s
+2024.11.28 15:04:01 INFO  compiling lab2 (9 scala sources)
+2024.11.28 15:04:01 INFO  time: compiled lab2 in 0.45s
+2024.11.28 15:04:01 INFO  compiling lab2 (1 scala source)
+2024.11.28 15:04:02 INFO  time: compiled lab2 in 0.14s
+нояб. 28, 2024 3:04:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "textDocument/didChange",
+  "params": {
+    "textDocument": {
+      "version": 4,
+      "uri": "file:///c%3A/Users/dima-/OneDrive/Desktop/%D0%A4%D0%9F/Functional_Programming/lab2/src/main/scala/Monad.scala"
+    },
+    "contentChanges": [
+      {
+        "text": "\r\ntrait Monad[M[_]] extends Functor[M] {\r\n  // flatMap принимает контейнер M[A] и функцию f: A \u003d\u003e M[B],\r\n  // а затем возвращает новый контейнер M[B], который может быть вложенным.\r\n  def flatMap[A, B](ma: M[A])(f: A \u003d\u003e M[B]): M[B]\r\n\r\n  // unit позволяет обернуть значение типа A в контейнер M[A]\r\n  def unit[A](a: A): M[A]\r\n}\r\n"
+      }
+    ]
+  }
+}
+java.lang.IllegalArgumentException: -1 is not a valid offset, allowed [0..328]
+	at scala.meta.internal.inputs.InternalInput.offsetToLine(InternalInput.scala:54)
+	at scala.meta.internal.inputs.InternalInput.offsetToLine$(InternalInput.scala:48)
+	at scala.meta.inputs.Input$VirtualFile.offsetToLine(Input.scala:105)
+	at scala.meta.inputs.Position$Range.startLine$lzycompute(Position.scala:45)
+	at scala.meta.inputs.Position$Range.startLine(Position.scala:45)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionMetaPosition.toLsp(ScalametaCommonEnrichments.scala:80)
+	at scala.meta.internal.parsing.TokenEditDistance$Diff.$anonfun$toRevised$8(TokenEditDistance.scala:310)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.TokenEditDistance$Diff.toRevised(TokenEditDistance.scala:241)
+	at scala.meta.internal.metals.Diagnostics.toFreshDiagnostic(Diagnostics.scala:320)
+	at scala.meta.internal.metals.Diagnostics.$anonfun$publishDiagnostics$2(Diagnostics.scala:276)
+	at scala.meta.internal.metals.Diagnostics.$anonfun$publishDiagnostics$2$adapted(Diagnostics.scala:275)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterable.foreach(Iterable.scala:935)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:275)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:240)
+	at scala.meta.internal.metals.Diagnostics.didChange(Diagnostics.scala:153)
+	at scala.meta.internal.metals.MetalsLspService.didChange(MetalsLspService.scala:865)
+	at scala.meta.internal.metals.ProjectMetalsLspService.didChange(ProjectMetalsLspService.scala:225)
+	at scala.meta.internal.metals.WorkspaceLspService.didChange(WorkspaceLspService.scala:407)
+	at scala.meta.metals.lsp.DelegatingScalaService.didChange(DelegatingScalaService.scala:50)
+	at jdk.internal.reflect.GeneratedMethodAccessor11.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+нояб. 28, 2024 3:04:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "textDocument/didChange",
+  "params": {
+    "textDocument": {
+      "version": 5,
+      "uri": "file:///c%3A/Users/dima-/OneDrive/Desktop/%D0%A4%D0%9F/Functional_Programming/lab2/src/main/scala/Monad.scala"
+    },
+    "contentChanges": [
+      {
+        "text": "trait Monad[M[_]] extends Functor[M] {\r\n  // flatMap принимает контейнер M[A] и функцию f: A \u003d\u003e M[B],\r\n  // а затем возвращает новый контейнер M[B], который может быть вложенным.\r\n  def flatMap[A, B](ma: M[A])(f: A \u003d\u003e M[B]): M[B]\r\n\r\n  // unit позволяет обернуть значение типа A в контейнер M[A]\r\n  def unit[A](a: A): M[A]\r\n}\r\n"
+      }
+    ]
+  }
+}
+java.lang.IllegalArgumentException: -1 is not a valid offset, allowed [0..326]
+	at scala.meta.internal.inputs.InternalInput.offsetToLine(InternalInput.scala:54)
+	at scala.meta.internal.inputs.InternalInput.offsetToLine$(InternalInput.scala:48)
+	at scala.meta.inputs.Input$VirtualFile.offsetToLine(Input.scala:105)
+	at scala.meta.inputs.Position$Range.startLine$lzycompute(Position.scala:45)
+	at scala.meta.inputs.Position$Range.startLine(Position.scala:45)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionMetaPosition.toLsp(ScalametaCommonEnrichments.scala:80)
+	at scala.meta.internal.parsing.TokenEditDistance$Diff.$anonfun$toRevised$8(TokenEditDistance.scala:310)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.TokenEditDistance$Diff.toRevised(TokenEditDistance.scala:241)
+	at scala.meta.internal.metals.Diagnostics.toFreshDiagnostic(Diagnostics.scala:320)
+	at scala.meta.internal.metals.Diagnostics.$anonfun$publishDiagnostics$2(Diagnostics.scala:276)
+	at scala.meta.internal.metals.Diagnostics.$anonfun$publishDiagnostics$2$adapted(Diagnostics.scala:275)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterable.foreach(Iterable.scala:935)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:275)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:240)
+	at scala.meta.internal.metals.Diagnostics.didChange(Diagnostics.scala:153)
+	at scala.meta.internal.metals.MetalsLspService.didChange(MetalsLspService.scala:865)
+	at scala.meta.internal.metals.ProjectMetalsLspService.didChange(ProjectMetalsLspService.scala:225)
+	at scala.meta.internal.metals.WorkspaceLspService.didChange(WorkspaceLspService.scala:407)
+	at scala.meta.metals.lsp.DelegatingScalaService.didChange(DelegatingScalaService.scala:50)
+	at jdk.internal.reflect.GeneratedMethodAccessor11.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+2024.11.28 15:04:19 INFO  compiling lab2 (1 scala source)
+2024.11.28 15:04:19 INFO  time: compiled lab2 in 95ms
+2024.11.28 15:04:21 INFO  compiling lab2 (2 scala sources)
+2024.11.28 15:04:21 INFO  time: compiled lab2 in 0.23s
+2024.11.28 15:04:23 INFO  compiling lab2 (1 scala source)
+2024.11.28 15:04:23 INFO  time: compiled lab2 in 0.13s
+2024.11.28 15:04:58 INFO  Shutting down server
+2024.11.28 15:04:58 INFO  shutting down Metals
+2024.11.28 15:04:58 INFO  Shut down connection with build server.
+2024.11.28 15:04:58 INFO  Shut down connection with build server.
+2024.11.28 15:04:58 INFO  Exiting server
+2024.12.07 14:07:54 INFO  Started: Metals version 1.4.1 in folders 'C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2' for client Visual Studio Code 1.95.3.
+2024.12.07 14:07:54 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.07 14:07:54 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\ФП\Functional_Programming\lab2\src\main\scala\number3\Monad.scala. Using presentation compiler with project's scala-library version: 3.3.4
