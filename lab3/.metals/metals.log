@@ -1,0 +1,732 @@
+2024.11.28 15:19:17 INFO  Started: Metals version 1.4.1 in folders 'C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3' for client Visual Studio Code 1.95.3.
+2024.11.28 15:19:17 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.28 15:19:17 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+нояб. 28, 2024 3:19:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+нояб. 28, 2024 3:19:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+нояб. 28, 2024 3:19:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2024.11.28 15:19:19 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:19:19 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:19:19 INFO  Attempting to connect to the build server...
+2024.11.28 15:19:19 INFO  Found a Bloop server running
+2024.11.28 15:19:19 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:19:19 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\.metals\bsp.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.28 15:19:19 INFO  time: Connected to build server in 0.6s
+2024.11.28 15:19:19 INFO  Connected to Build server: Bloop v2.0.5
+2024.11.28 15:19:19 INFO  running doctor check
+2024.11.28 15:19:19 INFO  java targets: 
+2024.11.28 15:19:21 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.28 15:19:21 INFO  time: indexed workspace in 1.69s
+2024.11.28 15:19:21 WARN  no build target for: C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala
+2024.11.28 15:19:21 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:19:21 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:19:22 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:19:29 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:19:29 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\AkkaQuickstart.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:19:29 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\AkkaQuickstart.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:19:29 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\AkkaQuickstart.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:19:29 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\AkkaQuickstart.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:19:38 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\AkkaQuickstart.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:19:38 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:19:38 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:19:38 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:19:38 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:19:38 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:19:42 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:19:44 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:19:48 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:19:48 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:19:48 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:19:49 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:19:52 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:19:52 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\AkkaQuickstart.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:19:52 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\AkkaQuickstart.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:19:52 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\AkkaQuickstart.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:19:53 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\AkkaQuickstart.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:19:56 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\AkkaQuickstart.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:20:02 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\AkkaQuickstart.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:20:02 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:20:02 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:20:02 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:20:02 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:20:06 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:20:06 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\AkkaQuickstart.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:20:06 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\AkkaQuickstart.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:20:06 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\AkkaQuickstart.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:20:06 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\AkkaQuickstart.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:20:13 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\AkkaQuickstart.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:20:16 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\AkkaQuickstart.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:20:16 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\AkkaQuickstart.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:20:18 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\AkkaQuickstart.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:20:18 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:20:18 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:20:18 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:20:18 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.28 15:20:21 INFO  Shutting down server
+2024.11.28 15:20:21 INFO  shutting down Metals
+2024.11.28 15:20:21 INFO  Shut down connection with build server.
+2024.11.28 15:20:21 INFO  Exiting server
+2024.12.07 17:37:06 INFO  Started: Metals version 1.4.1 in folders 'C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3' for client Visual Studio Code 1.95.3.
+2024.12.07 17:37:06 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.07 17:37:06 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.07 17:37:07 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.07 17:37:07 INFO  Attempting to connect to the build server...
+2024.12.07 17:37:07 INFO  Found a Bloop server running
+2024.12.07 17:37:07 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\.metals\bsp.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.07 17:37:08 INFO  time: Connected to build server in 0.6s
+2024.12.07 17:37:08 INFO  Connected to Build server: Bloop v2.0.5
+2024.12.07 17:37:07 INFO  running doctor check
+2024.12.07 17:37:07 INFO  java targets: 
+2024.12.07 17:37:10 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.07 17:37:10 INFO  time: indexed workspace in 1.82s
+2024.12.07 17:37:10 WARN  no build target for: C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala
+2024.12.07 17:38:23 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.07 17:38:23 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.07 17:38:23 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.07 17:38:23 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.07 18:18:18 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.07 18:18:18 INFO  Shutting down server
+2024.12.07 18:18:18 INFO  shutting down Metals
+2024.12.07 18:18:19 INFO  Shut down connection with build server.
+2024.12.07 18:18:19 INFO  Exiting server
+2024.12.08 12:45:28 INFO  Started: Metals version 1.4.1 in folders 'C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3' for client Visual Studio Code 1.95.3.
+2024.12.08 12:45:28 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.08 12:45:28 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.08 12:45:29 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.08 12:45:29 INFO  Attempting to connect to the build server...
+2024.12.08 12:45:29 INFO  No running Bloop server found, starting one.
+2024.12.08 12:45:30 INFO  Starting compilation server
+2024.12.08 12:45:32 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\.metals\bsp.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.08 12:45:32 INFO  time: Connected to build server in 2.6s
+2024.12.08 12:45:32 INFO  Connected to Build server: Bloop v2.0.5
+2024.12.08 12:45:32 INFO  running doctor check
+2024.12.08 12:45:32 INFO  java targets: 
+2024.12.08 12:45:33 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.08 12:45:33 INFO  time: indexed workspace in 1.52s
+2024.12.08 12:45:33 WARN  no build target for: C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala
+2024.12.08 12:45:33 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.08 12:45:33 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.08 12:45:34 INFO  Shutting down server
+2024.12.08 12:45:34 INFO  shutting down Metals
+2024.12.08 12:45:34 INFO  Shut down connection with build server.
+2024.12.08 12:45:33 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.08 12:45:33 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.08 12:45:34 INFO  Exiting server
+2024.12.12 20:23:50 INFO  Started: Metals version 1.4.1 in folders 'C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3' for client Visual Studio Code 1.95.3.
+2024.12.12 20:23:54 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.12 20:23:54 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+дек. 12, 2024 8:23:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2024.12.12 20:23:58 INFO  Attempting to connect to the build server...
+2024.12.12 20:23:58 INFO  No running Bloop server found, starting one.
+2024.12.12 20:24:01 INFO  Starting compilation server
+2024.12.12 20:24:07 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\.metals\bsp.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.12 20:24:07 INFO  time: Connected to build server in 8.83s
+2024.12.12 20:24:07 INFO  Connected to Build server: Bloop v2.0.5
+2024.12.12 20:24:07 INFO  time: Imported build in 0.14s
+2024.12.12 20:24:07 INFO  running doctor check
+2024.12.12 20:24:07 INFO  java targets: 
+2024.12.12 20:24:10 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.12 20:24:10 INFO  time: indexed workspace in 2.98s
+2024.12.12 20:24:10 WARN  no build target for: C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala
+2024.12.12 20:24:10 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:24:13 INFO  time: code lens generation in 2.57s
+2024.12.12 20:24:28 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:24:28 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:24:28 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:24:28 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:24:29 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:24:33 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:24:33 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:24:33 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:24:34 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:24:38 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:24:38 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:24:38 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:24:38 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:24:38 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:24:38 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:24:38 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:24:40 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\test\scala\com\example\AkkaQuickstartSpec.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:24:40 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\AkkaQuickstart.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:24:40 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\AkkaQuickstart.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:24:40 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\AkkaQuickstart.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:24:40 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\AkkaQuickstart.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:24:40 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\AkkaQuickstart.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:24:45 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\AkkaQuickstart.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:24:45 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\AkkaQuickstart.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:25:00 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\AkkaQuickstart.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:25:00 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:25:00 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:25:00 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:25:00 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:42:09 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:42:22 INFO  Shutting down server
+2024.12.12 20:42:22 INFO  shutting down Metals
+2024.12.12 20:42:22 INFO  Shut down connection with build server.
+2024.12.12 20:42:22 INFO  Exiting server
+2024.12.12 20:44:11 INFO  Started: Metals version 1.4.1 in folders 'C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3' for client Visual Studio Code 1.95.3.
+2024.12.12 20:44:12 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.12 20:44:12 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala. Using presentation compiler with project's scala-library version: 3.3.4
+дек. 12, 2024 8:44:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2024.12.12 20:44:13 INFO  Attempting to connect to the build server...
+2024.12.12 20:44:13 INFO  Found a Bloop server running
+2024.12.12 20:44:14 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:44:14 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:44:14 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\.metals\bsp.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.12 20:44:14 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:44:14 INFO  time: Connected to build server in 0.81s
+2024.12.12 20:44:14 INFO  Connected to Build server: Bloop v2.0.5
+2024.12.12 20:44:14 INFO  time: Imported build in 0.11s
+2024.12.12 20:44:14 INFO  running doctor check
+2024.12.12 20:44:14 INFO  java targets: 
+2024.12.12 20:44:14 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:44:15 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:44:15 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:44:17 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.12 20:44:17 INFO  time: indexed workspace in 3.54s
+2024.12.12 20:44:18 WARN  no build target for: C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala
+2024.12.12 20:44:18 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:44:18 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:44:21 INFO  running 'C:\Users\dima-\AppData\Local\Coursier\cache\arc\https\github.com\adoptium\temurin17-binaries\releases\download\jdk-17%252B35\OpenJDK17-jdk_x64_windows_hotspot_17_35.zip\jdk-17+35\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\dima-\AppData\Local\Temp\metals16833797841809342081\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2024.12.12 20:44:27 INFO  [info] welcome to sbt 1.10.5 (Eclipse Adoptium Java 17)
+2024.12.12 20:44:30 INFO  [info] loading settings for project akka-scala-seed-build-build-build from metals.sbt ...
+2024.12.12 20:44:31 INFO  [info] loading project definition from C:\Users\dima-\OneDrive\Desktop\Р¤СѓРЅРєС†РёРѕРЅР°Р»СЊРЅРѕРµ Рё Р»РѕРіРёС‡РµСЃРєРѕРµ РїСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёРµ\lab3\akka-scala-seed\project\project\project
+2024.12.12 20:44:34 INFO  [info] loading settings for project akka-scala-seed-build-build from metals.sbt ...
+2024.12.12 20:44:34 INFO  [info] loading project definition from C:\Users\dima-\OneDrive\Desktop\Р¤СѓРЅРєС†РёРѕРЅР°Р»СЊРЅРѕРµ Рё Р»РѕРіРёС‡РµСЃРєРѕРµ РїСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёРµ\lab3\akka-scala-seed\project\project
+2024.12.12 20:44:39 INFO  [success] Generated .bloop\akka-scala-seed-build-build.json
+2024.12.12 20:44:39 INFO  [success] Total time: 4 s, completed 12 РґРµРє. 2024 Рі., 20:44:39
+2024.12.12 20:44:40 INFO  [info] loading settings for project akka-scala-seed-build from metals.sbt,plugins.sbt ...
+2024.12.12 20:44:40 INFO  [info] loading project definition from C:\Users\dima-\OneDrive\Desktop\Р¤СѓРЅРєС†РёРѕРЅР°Р»СЊРЅРѕРµ Рё Р»РѕРіРёС‡РµСЃРєРѕРµ РїСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёРµ\lab3\akka-scala-seed\project
+2024.12.12 20:44:42 INFO  [success] Generated .bloop\akka-scala-seed-build.json
+2024.12.12 20:44:42 INFO  [success] Total time: 2 s, completed 12 РґРµРє. 2024 Рі., 20:44:42
+2024.12.12 20:44:44 INFO  [info] loading settings for project akka-scala-seed from build.sbt ...
+2024.12.12 20:44:44 INFO  [info] set current project to akka-scala-seed (in build file:/C:/Users/dima-/OneDrive/Desktop/Р¤СѓРЅРєС†РёРѕРЅР°Р»СЊРЅРѕРµ%20Рё%20Р»РѕРіРёС‡РµСЃРєРѕРµ%20РїСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёРµ/lab3/akka-scala-seed/)
+2024.12.12 20:44:44 INFO  [success] Generated .bloop\akka-scala-seed.json
+2024.12.12 20:44:45 INFO  [success] Generated .bloop\akka-scala-seed-test.json
+2024.12.12 20:44:45 INFO  [success] Total time: 1 s, completed 12 РґРµРє. 2024 Рі., 20:44:45
+2024.12.12 20:44:45 INFO  time: ran 'sbt bloopInstall' in 24s
+2024.12.12 20:44:45 INFO  Disconnecting from Bloop session...
+2024.12.12 20:44:45 INFO  Shut down connection with build server.
+2024.12.12 20:44:45 INFO  Attempting to connect to the build server...
+2024.12.12 20:44:45 INFO  Found a Bloop server running
+2024.12.12 20:44:46 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:44:46 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\.metals\bsp.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.12 20:44:46 INFO  time: Connected to build server in 0.79s
+2024.12.12 20:44:46 INFO  Connected to Build server: Bloop v2.0.5
+2024.12.12 20:44:46 INFO  running doctor check
+2024.12.12 20:44:46 INFO  java targets: akka-scala-seed-test, akka-scala-seed
+2024.12.12 20:44:52 INFO  time: indexed workspace in 6.16s
+2024.12.12 20:44:59 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:44:59 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:44:59 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:44:59 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:45:00 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:45:08 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:45:50 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:45:51 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:45:51 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:45:51 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:45:51 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:45:52 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:45:52 WARN  no build target for: C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\build.sbt
+2024.12.12 20:45:52 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:45:53 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:45:55 INFO  running 'C:\Users\dima-\AppData\Local\Coursier\cache\arc\https\github.com\adoptium\temurin17-binaries\releases\download\jdk-17%252B35\OpenJDK17-jdk_x64_windows_hotspot_17_35.zip\jdk-17+35\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\dima-\AppData\Local\Temp\metals17594930350889791080\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2024.12.12 20:45:57 INFO  [info] welcome to sbt 1.10.5 (Eclipse Adoptium Java 17)
+2024.12.12 20:45:58 INFO  [info] loading settings for project akka-scala-seed-build-build-build from metals.sbt ...
+2024.12.12 20:45:59 INFO  [info] loading project definition from C:\Users\dima-\OneDrive\Desktop\Р¤СѓРЅРєС†РёРѕРЅР°Р»СЊРЅРѕРµ Рё Р»РѕРіРёС‡РµСЃРєРѕРµ РїСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёРµ\lab3\akka-scala-seed\project\project\project
+2024.12.12 20:45:59 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:45:59 WARN  no build target for: C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\build.sbt
+2024.12.12 20:45:59 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:46:00 INFO  [info] loading settings for project akka-scala-seed-build-build from metals.sbt ...
+2024.12.12 20:46:00 INFO  [info] loading project definition from C:\Users\dima-\OneDrive\Desktop\Р¤СѓРЅРєС†РёРѕРЅР°Р»СЊРЅРѕРµ Рё Р»РѕРіРёС‡РµСЃРєРѕРµ РїСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёРµ\lab3\akka-scala-seed\project\project
+2024.12.12 20:46:02 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:46:03 INFO  [success] Generated .bloop\akka-scala-seed-build-build.json
+2024.12.12 20:46:02 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.12 20:46:03 INFO  [success] Total time: 3 s, completed 12 РґРµРє. 2024 Рі., 20:46:03
+2024.12.12 20:46:03 INFO  [info] loading settings for project akka-scala-seed-build from metals.sbt,plugins.sbt ...
+2024.12.12 20:46:03 INFO  [info] loading project definition from C:\Users\dima-\OneDrive\Desktop\Р¤СѓРЅРєС†РёРѕРЅР°Р»СЊРЅРѕРµ Рё Р»РѕРіРёС‡РµСЃРєРѕРµ РїСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёРµ\lab3\akka-scala-seed\project
+2024.12.12 20:46:05 INFO  [success] Generated .bloop\akka-scala-seed-build.json
+2024.12.12 20:46:05 INFO  [success] Total time: 1 s, completed 12 РґРµРє. 2024 Рі., 20:46:05
+2024.12.12 20:46:07 INFO  [info] loading settings for project akka-scala-seed from build.sbt ...
+2024.12.12 20:46:07 INFO  [info] set current project to akka-scala-seed (in build file:/C:/Users/dima-/OneDrive/Desktop/Р¤СѓРЅРєС†РёРѕРЅР°Р»СЊРЅРѕРµ%20Рё%20Р»РѕРіРёС‡РµСЃРєРѕРµ%20РїСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёРµ/lab3/akka-scala-seed/)
+2024.12.12 20:46:10 INFO  [success] Generated .bloop\akka-scala-seed.json
+2024.12.12 20:46:10 INFO  [success] Generated .bloop\akka-scala-seed-test.json
+2024.12.12 20:46:10 INFO  [success] Total time: 3 s, completed 12 РґРµРє. 2024 Рі., 20:46:10
+2024.12.12 20:46:10 INFO  time: ran 'sbt bloopInstall' in 15s
+2024.12.12 20:46:10 INFO  Disconnecting from Bloop session...
+2024.12.12 20:46:10 INFO  Shut down connection with build server.
+2024.12.12 20:46:10 INFO  Attempting to connect to the build server...
+2024.12.12 20:46:10 INFO  Found a Bloop server running
+2024.12.12 20:46:10 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\.metals\bsp.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.12 20:46:11 INFO  time: Connected to build server in 0.67s
+2024.12.12 20:46:11 INFO  Connected to Build server: Bloop v2.0.5
+2024.12.12 20:46:11 INFO  running doctor check
+2024.12.12 20:46:11 INFO  java targets: akka-scala-seed-test, akka-scala-seed
+2024.12.12 20:46:13 INFO  time: indexed workspace in 2.3s
+2024.12.12 20:46:13 INFO  compiling akka-scala-seed (2 scala sources)
+2024.12.12 20:46:16 INFO  compiling akka-scala-seed-test (1 scala source)
+2024.12.12 20:46:16 INFO  time: compiled akka-scala-seed in 2.87s
+2024.12.12 20:46:19 INFO  time: compiled akka-scala-seed-test in 2.31s
+2024.12.12 20:46:19 INFO  skipping build import with status 'Installed'
+2024.12.12 20:46:19 INFO  Disconnecting from Bloop session...
+2024.12.12 20:46:19 INFO  Shut down connection with build server.
+дек. 12, 2024 8:46:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint notify
+WARNING: Failed to send notification message.
+org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: Connection reset by peer
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.notify(RemoteEndpoint.java:135)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.sendCancelNotification(RemoteEndpoint.java:191)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint$1.cancel(RemoteEndpoint.java:160)
+	at scala.meta.internal.metals.utils.FutureWithTimeout$$anon$1.$anonfun$cancel$1(FutureWithTimeout.scala:37)
+	at scala.runtime.java8.JFunction0$mcZ$sp.apply(JFunction0$mcZ$sp.scala:17)
+	at scala.util.Try$.apply(Try.scala:217)
+	at scala.meta.internal.metals.utils.FutureWithTimeout$$anon$1.cancel(FutureWithTimeout.scala:37)
+	at scala.meta.internal.metals.Cancelable$.$anonfun$cancelAll$1(Cancelable.scala:29)
+	at scala.collection.immutable.List.foreach(List.scala:334)
+	at scala.meta.internal.metals.Cancelable$.cancelAll(Cancelable.scala:28)
+	at scala.meta.internal.metals.MutableCancelable.cancel(MutableCancelable.scala:25)
+	at scala.meta.internal.metals.utils.RequestRegistry.cancel(RequestRegistry.scala:94)
+	at scala.meta.internal.metals.BuildServerConnection.cancel(BuildServerConnection.scala:457)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1(BuildServerConnection.scala:183)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1$adapted(BuildServerConnection.scala:175)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.SocketDispatcher.write0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:54)
+	at java.base/sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:132)
+	at java.base/sun.nio.ch.IOUtil.write(IOUtil.java:97)
+	at java.base/sun.nio.ch.IOUtil.write(IOUtil.java:53)
+	at java.base/sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:532)
+	at java.base/java.nio.channels.Channels.writeFullyImpl(Channels.java:74)
+	at java.base/java.nio.channels.Channels.writeFully(Channels.java:93)
+	at java.base/java.nio.channels.Channels$1.write(Channels.java:171)
+	at java.base/java.io.OutputStream.write(OutputStream.java:127)
+	at java.base/java.nio.channels.Channels$1.write(Channels.java:151)
+	at scala.meta.internal.metals.ClosableOutputStream.write(ClosableOutputStream.scala:26)
+	at java.base/java.io.FilterOutputStream.write(FilterOutputStream.java:137)
+	at java.base/java.io.FilterOutputStream.write(FilterOutputStream.java:108)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:67)
+	... 20 more
+
+2024.12.12 20:46:19 INFO  Attempting to connect to the build server...
+2024.12.12 20:46:19 INFO  Scala test classes not supported by server
+2024.12.12 20:46:19 INFO  Found a Bloop server running
+2024.12.12 20:46:19 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\.metals\bsp.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.12 20:46:19 INFO  time: Connected to build server in 0.57s
+2024.12.12 20:46:19 INFO  Connected to Build server: Bloop v2.0.5
+2024.12.12 20:46:19 INFO  running doctor check
+2024.12.12 20:46:19 INFO  java targets: akka-scala-seed-test, akka-scala-seed
+2024.12.12 20:46:21 INFO  time: indexed workspace in 1.33s
+2024.12.12 20:52:19 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 20:52:19 INFO  time: compiled akka-scala-seed in 0.11s
+2024.12.12 20:52:19 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 20:52:21 INFO  time: compiled akka-scala-seed in 1.36s
+2024.12.12 20:54:50 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 20:54:50 INFO  time: compiled akka-scala-seed in 0.78s
+2024.12.12 20:54:53 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 20:54:53 INFO  time: compiled akka-scala-seed in 0.65s
+2024.12.12 20:54:58 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 20:54:58 INFO  time: compiled akka-scala-seed in 0.58s
+2024.12.12 21:15:28 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:15:28 INFO  time: compiled akka-scala-seed in 81ms
+2024.12.12 21:15:28 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:15:30 INFO  time: compiled akka-scala-seed in 1.67s
+2024.12.12 21:16:19 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:16:19 INFO  time: compiled akka-scala-seed in 0.76s
+2024.12.12 21:16:23 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:16:23 INFO  time: compiled akka-scala-seed in 0.62s
+2024.12.12 21:16:24 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:16:24 INFO  time: compiled akka-scala-seed in 0.65s
+2024.12.12 21:18:26 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:18:26 INFO  time: compiled akka-scala-seed in 0.71s
+2024.12.12 21:18:35 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:18:35 INFO  time: compiled akka-scala-seed in 0.49s
+2024.12.12 21:18:39 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:18:39 INFO  time: compiled akka-scala-seed in 0.62s
+2024.12.12 21:19:13 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:19:13 INFO  time: compiled akka-scala-seed in 0.52s
+2024.12.12 21:19:47 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:19:47 INFO  time: compiled akka-scala-seed in 0.57s
+2024.12.12 21:19:50 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:19:50 INFO  time: compiled akka-scala-seed in 0.54s
+2024.12.12 21:19:52 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:19:52 INFO  time: compiled akka-scala-seed in 0.46s
+2024.12.12 21:19:52 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:19:53 INFO  time: compiled akka-scala-seed in 0.52s
+2024.12.12 21:20:04 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:20:04 INFO  time: compiled akka-scala-seed in 0.47s
+2024.12.12 21:20:56 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:20:56 INFO  time: compiled akka-scala-seed in 0.51s
+2024.12.12 21:22:02 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:22:02 INFO  time: compiled akka-scala-seed in 0.22s
+2024.12.12 21:22:04 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:22:04 INFO  time: compiled akka-scala-seed in 0.21s
+2024.12.12 21:22:06 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:22:06 INFO  time: compiled akka-scala-seed in 0.47s
+2024.12.12 21:22:14 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:22:14 INFO  time: compiled akka-scala-seed in 0.41s
+2024.12.12 21:22:22 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:22:22 INFO  time: compiled akka-scala-seed in 0.17s
+2024.12.12 21:22:33 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:22:33 INFO  time: compiled akka-scala-seed in 0.35s
+2024.12.12 21:22:44 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:22:44 INFO  time: compiled akka-scala-seed in 0.17s
+2024.12.12 21:22:49 ERROR searching for `.` failed
+java.lang.RuntimeException: invalid symbol format
+.
+^
+	at scala.sys.package$.error(package.scala:27)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.fail(Scala.scala:164)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.readChar(Scala.scala:176)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.parseValue(Scala.scala:192)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.parseDescriptor(Scala.scala:211)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.entryPoint(Scala.scala:232)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser$.apply(Scala.scala:240)
+	at scala.meta.internal.semanticdb.Scala$ScalaSymbolOps$.owner$extension(Scala.scala:80)
+	at scala.meta.internal.mtags.Symbol.toplevel(Symbol.scala:50)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:200)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:177)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.findInIndex$1(FallbackDefinitionProvider.scala:125)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$15(FallbackDefinitionProvider.scala:132)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$3(FallbackDefinitionProvider.scala:131)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$2(FallbackDefinitionProvider.scala:43)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$1(FallbackDefinitionProvider.scala:40)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.search(FallbackDefinitionProvider.scala:39)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$3(DefinitionProvider.scala:120)
+	at scala.Option.orElse(Option.scala:477)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$2(DefinitionProvider.scala:120)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.12.12 21:22:49 ERROR searching for `#` failed
+java.lang.RuntimeException: invalid symbol format
+#
+^
+	at scala.sys.package$.error(package.scala:27)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.fail(Scala.scala:164)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.readChar(Scala.scala:176)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.parseValue(Scala.scala:192)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.parseDescriptor(Scala.scala:214)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.entryPoint(Scala.scala:232)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser$.apply(Scala.scala:240)
+	at scala.meta.internal.semanticdb.Scala$ScalaSymbolOps$.owner$extension(Scala.scala:80)
+	at scala.meta.internal.mtags.Symbol.toplevel(Symbol.scala:50)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:200)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:177)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.findInIndex$1(FallbackDefinitionProvider.scala:125)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$15(FallbackDefinitionProvider.scala:132)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$3(FallbackDefinitionProvider.scala:131)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$2(FallbackDefinitionProvider.scala:43)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$1(FallbackDefinitionProvider.scala:40)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.search(FallbackDefinitionProvider.scala:39)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$3(DefinitionProvider.scala:120)
+	at scala.Option.orElse(Option.scala:477)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$2(DefinitionProvider.scala:120)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.12.12 21:22:49 ERROR searching for `().` failed
+java.lang.RuntimeException: invalid symbol format
+().
+^
+	at scala.sys.package$.error(package.scala:27)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.fail(Scala.scala:164)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.readChar(Scala.scala:176)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.parseValue(Scala.scala:192)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.parseDescriptor(Scala.scala:209)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.entryPoint(Scala.scala:232)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser$.apply(Scala.scala:240)
+	at scala.meta.internal.semanticdb.Scala$ScalaSymbolOps$.owner$extension(Scala.scala:80)
+	at scala.meta.internal.mtags.Symbol.toplevel(Symbol.scala:50)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:200)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:177)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.findInIndex$1(FallbackDefinitionProvider.scala:125)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$15(FallbackDefinitionProvider.scala:132)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$3(FallbackDefinitionProvider.scala:131)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$2(FallbackDefinitionProvider.scala:43)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$1(FallbackDefinitionProvider.scala:40)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.search(FallbackDefinitionProvider.scala:39)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$3(DefinitionProvider.scala:120)
+	at scala.Option.orElse(Option.scala:477)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$2(DefinitionProvider.scala:120)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.12.12 21:22:49 WARN  Could not find 'foreach' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+2024.12.12 21:22:50 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:22:50 INFO  time: compiled akka-scala-seed in 0.4s
+2024.12.12 21:23:15 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:23:15 INFO  time: compiled akka-scala-seed in 0.34s
+2024.12.12 21:25:04 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:25:04 INFO  time: compiled akka-scala-seed in 0.76s
+2024.12.12 21:25:05 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:25:06 INFO  time: compiled akka-scala-seed in 1.01s
+2024.12.12 21:25:37 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:25:37 INFO  time: compiled akka-scala-seed in 0.43s
+2024.12.12 21:25:37 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\IntegralActor.scala
+2024.12.12 21:25:39 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\IntegralActor.scala
+2024.12.12 21:25:40 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:25:40 INFO  time: compiled akka-scala-seed in 0.19s
+2024.12.12 21:25:40 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\IntegralActor.scala
+2024.12.12 21:25:44 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:25:44 INFO  time: compiled akka-scala-seed in 0.18s
+2024.12.12 21:25:45 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\IntegralActor.scala
+2024.12.12 21:25:45 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\IntegralActor.scala
+2024.12.12 21:25:46 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\IntegralActor.scala
+2024.12.12 21:25:46 INFO  time: compiled akka-scala-seed in 27ms
+2024.12.12 21:25:52 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:25:52 INFO  time: compiled akka-scala-seed in 0.17s
+2024.12.12 21:25:54 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:25:54 INFO  time: compiled akka-scala-seed in 0.44s
+2024.12.12 21:25:57 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:25:57 INFO  time: compiled akka-scala-seed in 0.2s
+2024.12.12 21:26:18 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:26:18 INFO  time: compiled akka-scala-seed in 0.17s
+2024.12.12 21:26:32 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:26:32 INFO  time: compiled akka-scala-seed in 0.17s
+2024.12.12 21:26:36 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:26:36 INFO  time: compiled akka-scala-seed in 0.16s
+2024.12.12 21:26:55 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:26:55 INFO  time: compiled akka-scala-seed in 0.62s
+2024.12.12 21:26:56 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:26:56 INFO  time: compiled akka-scala-seed in 0.63s
+дек. 12, 2024 9:27:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1570
+2024.12.12 21:27:59 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:27:59 INFO  time: compiled akka-scala-seed in 0.26s
+2024.12.12 21:28:00 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\IntegralActor.scala
+2024.12.12 21:28:02 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\IntegralActor.scala
+2024.12.12 21:28:03 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:28:03 INFO  time: compiled akka-scala-seed in 0.23s
+2024.12.12 21:28:04 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\IntegralActor.scala
+2024.12.12 21:28:05 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:28:05 INFO  time: compiled akka-scala-seed in 0.22s
+2024.12.12 21:28:05 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\IntegralActor.scala
+2024.12.12 21:28:08 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\IntegralActor.scala
+2024.12.12 21:28:09 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\IntegralActor.scala
+2024.12.12 21:28:10 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:28:10 INFO  time: compiled akka-scala-seed in 0.18s
+2024.12.12 21:28:10 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\IntegralActor.scala
+2024.12.12 21:28:11 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:28:11 INFO  time: compiled akka-scala-seed in 0.18s
+2024.12.12 21:28:12 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\IntegralActor.scala
+2024.12.12 21:28:12 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\IntegralActor.scala
+2024.12.12 21:28:12 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\IntegralActor.scala
+2024.12.12 21:28:13 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:28:13 INFO  time: compiled akka-scala-seed in 0.15s
+2024.12.12 21:28:14 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\IntegralActor.scala
+2024.12.12 21:28:15 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\IntegralActor.scala
+2024.12.12 21:28:16 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\IntegralActor.scala
+2024.12.12 21:28:16 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\IntegralActor.scala
+2024.12.12 21:28:17 WARN  Could not load snapshot text for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\IntegralActor.scala
+2024.12.12 21:28:18 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:28:18 INFO  time: compiled akka-scala-seed in 0.53s
+2024.12.12 21:28:18 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:28:19 INFO  time: compiled akka-scala-seed in 0.7s
+2024.12.12 21:28:51 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:28:51 INFO  time: compiled akka-scala-seed in 0.56s
+2024.12.12 21:28:56 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:28:56 INFO  time: compiled akka-scala-seed in 0.47s
+2024.12.12 21:29:03 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:29:03 INFO  time: compiled akka-scala-seed in 0.46s
+2024.12.12 21:29:05 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:29:05 INFO  time: compiled akka-scala-seed in 0.55s
+2024.12.12 21:29:11 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:29:11 INFO  time: compiled akka-scala-seed in 0.46s
+2024.12.12 21:29:24 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:29:24 INFO  time: compiled akka-scala-seed in 0.49s
+2024.12.12 21:29:35 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:29:35 INFO  time: compiled akka-scala-seed in 0.53s
+2024.12.12 21:29:36 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:29:36 INFO  time: compiled akka-scala-seed in 0.49s
+2024.12.12 21:29:36 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:29:38 INFO  time: compiled akka-scala-seed in 0.48s
+2024.12.12 21:30:21 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:30:21 INFO  time: compiled akka-scala-seed in 0.66s
+2024.12.12 21:30:25 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:30:25 INFO  time: compiled akka-scala-seed in 0.62s
+2024.12.12 21:30:49 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:30:49 INFO  time: compiled akka-scala-seed in 0.19s
+2024.12.12 21:30:51 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.12 21:30:51 INFO  time: compiled akka-scala-seed in 0.5s
+2024.12.12 21:31:29 INFO  Shutting down server
+2024.12.12 21:31:29 INFO  shutting down Metals
+2024.12.12 21:31:29 INFO  Shut down connection with build server.
+2024.12.12 21:31:29 INFO  Exiting server
+2024.12.13 10:29:45 INFO  Started: Metals version 1.4.1 in folders 'C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3' for client Visual Studio Code 1.96.0.
+2024.12.13 10:29:45 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.13 10:29:45 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala. Using presentation compiler with project's scala-library version: 3.3.4
+дек. 13, 2024 10:29:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2024.12.13 10:29:48 INFO  Attempting to connect to the build server...
+2024.12.13 10:29:48 INFO  No running Bloop server found, starting one.
+2024.12.13 10:29:48 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.13 10:29:48 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.13 10:29:49 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.13 10:29:52 INFO  Starting compilation server
+2024.12.13 10:29:52 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\actorSum.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.13 10:29:52 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\actorSum.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.13 10:29:52 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\actorSum.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.13 10:29:54 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\IntegralActor.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.13 10:29:54 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\IntegralActor.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.13 10:29:55 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.13 10:29:55 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.13 10:29:57 INFO  no build target found for C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\akka-scala-seed\src\main\scala\com\example\lolo.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.13 10:29:57 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\dima-\OneDrive\Desktop\Функциональное и логическое программирование\lab3\.metals\bsp.trace.json or C:\Users\dima-\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.13 10:29:59 INFO  time: Connected to build server in 11s
+2024.12.13 10:29:59 INFO  Connected to Build server: Bloop v2.0.5
+2024.12.13 10:30:00 INFO  time: Imported build in 0.15s
+2024.12.13 10:30:00 INFO  running doctor check
+2024.12.13 10:30:00 INFO  java targets: akka-scala-seed-test, akka-scala-seed
+2024.12.13 10:30:02 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.13 10:30:04 INFO  time: indexed workspace in 4.15s
+2024.12.13 10:48:55 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 10:49:00 INFO  time: compiled akka-scala-seed in 4.41s
+дек. 13, 2024 11:12:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 168
+2024.12.13 14:20:49 WARN  Could not find semantic tokens for: file:///C:/Users/dima-/OneDrive/Desktop/Функциональное%20и%20логическое%20программирование/lab3/akka-scala-seed/src/main/scala/com/example/AkkaQuickstart.scala
+2024.12.13 14:20:50 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:20:50 INFO  time: compiled akka-scala-seed in 0.36s
+2024.12.13 14:20:51 WARN  Could not find semantic tokens for: file:///C:/Users/dima-/OneDrive/Desktop/Функциональное%20и%20логическое%20программирование/lab3/akka-scala-seed/src/main/scala/com/example/AkkaQuickstart.scala
+2024.12.13 14:20:52 INFO  time: compiled akka-scala-seed in 21ms
+2024.12.13 14:25:31 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:25:32 INFO  time: compiled akka-scala-seed in 1.69s
+2024.12.13 14:25:32 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:25:34 INFO  time: compiled akka-scala-seed in 1s
+2024.12.13 14:25:34 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:25:36 INFO  time: compiled akka-scala-seed in 0.89s
+2024.12.13 14:25:41 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:25:41 INFO  time: compiled akka-scala-seed in 0.76s
+2024.12.13 14:25:45 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:25:45 INFO  time: compiled akka-scala-seed in 0.61s
+2024.12.13 14:25:47 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:25:47 INFO  time: compiled akka-scala-seed in 0.53s
+2024.12.13 14:26:22 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:26:22 INFO  time: compiled akka-scala-seed in 0.72s
+2024.12.13 14:26:27 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:26:27 INFO  time: compiled akka-scala-seed in 0.54s
+2024.12.13 14:26:32 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:26:32 INFO  time: compiled akka-scala-seed in 0.62s
+2024.12.13 14:26:38 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:26:38 INFO  time: compiled akka-scala-seed in 0.53s
+2024.12.13 14:26:40 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:26:40 INFO  time: compiled akka-scala-seed in 0.56s
+2024.12.13 14:27:09 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:27:09 INFO  time: compiled akka-scala-seed in 0.48s
+2024.12.13 14:27:11 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:27:11 INFO  time: compiled akka-scala-seed in 0.53s
+2024.12.13 14:27:26 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:27:26 INFO  time: compiled akka-scala-seed in 0.63s
+2024.12.13 14:27:58 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:27:58 INFO  time: compiled akka-scala-seed in 0.51s
+2024.12.13 14:28:00 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:28:00 INFO  time: compiled akka-scala-seed in 0.44s
+2024.12.13 14:28:03 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:28:03 INFO  time: compiled akka-scala-seed in 0.58s
+2024.12.13 14:28:07 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:28:07 INFO  time: compiled akka-scala-seed in 0.39s
+2024.12.13 14:28:20 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:28:20 INFO  time: compiled akka-scala-seed in 0.38s
+2024.12.13 14:28:23 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:28:23 INFO  time: compiled akka-scala-seed in 0.6s
+2024.12.13 14:28:32 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:28:32 INFO  time: compiled akka-scala-seed in 0.53s
+2024.12.13 14:29:19 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:29:19 INFO  time: compiled akka-scala-seed in 0.46s
+2024.12.13 14:29:48 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:29:48 INFO  time: compiled akka-scala-seed in 0.41s
+2024.12.13 14:31:40 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:31:40 INFO  time: compiled akka-scala-seed in 0.47s
+2024.12.13 14:31:48 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:31:48 INFO  time: compiled akka-scala-seed in 0.44s
+2024.12.13 14:31:58 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:31:58 INFO  time: compiled akka-scala-seed in 0.37s
+2024.12.13 14:32:10 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:32:10 INFO  time: compiled akka-scala-seed in 0.39s
+2024.12.13 14:32:25 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:32:25 INFO  time: compiled akka-scala-seed in 0.4s
+2024.12.13 14:32:39 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:32:39 INFO  time: compiled akka-scala-seed in 0.43s
+2024.12.13 14:33:02 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:33:02 INFO  time: compiled akka-scala-seed in 0.4s
+2024.12.13 14:33:05 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:33:05 INFO  time: compiled akka-scala-seed in 0.39s
+2024.12.13 14:33:06 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:33:06 INFO  time: compiled akka-scala-seed in 0.41s
+2024.12.13 14:33:08 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:33:08 INFO  time: compiled akka-scala-seed in 0.68s
+2024.12.13 14:33:09 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:33:09 INFO  time: compiled akka-scala-seed in 0.4s
+2024.12.13 14:33:11 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:33:11 INFO  time: compiled akka-scala-seed in 0.32s
+2024.12.13 14:33:13 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:33:13 INFO  time: compiled akka-scala-seed in 0.4s
+2024.12.13 14:33:15 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:33:15 INFO  time: compiled akka-scala-seed in 0.34s
+2024.12.13 14:35:03 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:35:03 INFO  time: compiled akka-scala-seed in 0.37s
+2024.12.13 14:35:05 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:35:05 INFO  time: compiled akka-scala-seed in 0.33s
+2024.12.13 14:35:08 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:35:08 INFO  time: compiled akka-scala-seed in 0.41s
+2024.12.13 14:35:15 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:35:15 INFO  time: compiled akka-scala-seed in 0.36s
+2024.12.13 14:35:18 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:35:18 INFO  time: compiled akka-scala-seed in 0.38s
+2024.12.13 14:35:18 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:35:19 INFO  time: compiled akka-scala-seed in 0.34s
+2024.12.13 14:35:21 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:35:21 INFO  time: compiled akka-scala-seed in 0.44s
+2024.12.13 14:35:22 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:35:22 INFO  time: compiled akka-scala-seed in 0.43s
+2024.12.13 14:35:42 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:35:42 INFO  time: compiled akka-scala-seed in 0.4s
+2024.12.13 14:35:55 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:35:55 INFO  time: compiled akka-scala-seed in 0.34s
+2024.12.13 14:36:00 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:36:00 INFO  time: compiled akka-scala-seed in 0.38s
+2024.12.13 14:36:02 INFO  compiling akka-scala-seed (1 scala source)
+2024.12.13 14:36:02 INFO  time: compiled akka-scala-seed in 0.24s
+2024.12.13 14:38:18 INFO  Shutting down server
+2024.12.13 14:38:18 INFO  shutting down Metals
+2024.12.13 14:38:18 INFO  Shut down connection with build server.
+2024.12.13 14:38:18 INFO  Exiting server
