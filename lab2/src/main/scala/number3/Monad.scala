@@ -1,8 +1,8 @@
-trait Monad[M[_]] extends Functor[M] {
-  // flatMap принимает контейнер M[A] и функцию f: A => M[B],
-  // а затем возвращает новый контейнер M[B], который может быть вложенным.
-  def flatMap[A, B](ma: M[A])(f: A => M[B]): M[B]
+trait Monad[F[_]] extends Functor[F] {
+  def pure[A](value: A): F[A]
+  def flatMap[A, B](fa: F[A])(f: A => F[B]): F[B]
 
-  // unit позволяет обернуть значение типа A в контейнер M[A]
-  def unit[A](a: A): M[A]
+  // Реализация `map` через `flatMap` и `pure`
+  def map[A, B](fa: F[A])(f: A => B): F[B] =
+    flatMap(fa)(a => pure(f(a)))
 }

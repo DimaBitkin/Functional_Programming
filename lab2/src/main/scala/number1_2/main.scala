@@ -6,14 +6,15 @@ import scala.concurrent.duration.Duration
 @main def hello(): Unit = {
   val base = 2.0
   val exp = 2
-  val selekt = 4
+  val selekt = 1
 
   selekt match {
     case _: 1 => {
-      val result = integral(base => pow(base, exp), 0, 2, 1000000)
+      val result = integral(base => pow(base, exp), 0, 2, 1000000, 10)
       println(result) // Интеграл x^3 от 0 до 2
 
-      val result2 = integral(base => rectilinear_function(base), 0, 2, 10000)
+      val result2 =
+        integral(base => rectilinear_function(base), 0, 2, 10000, 10)
       println(result2)
     }
 
